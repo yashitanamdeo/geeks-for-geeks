@@ -5,46 +5,26 @@
  # } Driver Code Ends
 #User function Template for python3
 
-# Function to check value and 
-# return accordingly
-def check_status(a, b, flag):
-    if a == 1 and b == 1:
-        return False
-    elif flag == True:
-        if a < 0 and b < 0:
-            return True
-    elif a > 0 or b > 0:
-        return True
-    else:
-        return False
+
+def multiplicationTable(N):## in is a membership operator that is true if something is a member of sequence
+    for i in range(1,11): ## i in range(x,y,z) means i goes from x to y-1 and increments z steps in each iteration
+        print(i * N, end=" ") ## Separating by spaces using end =" "
+        
 
 #{ 
 #Driver Code Starts.
 
-# Driver Code
+
 def main():
-    
-    # Testcase input
-    testcases = int(input())
-    
-    # Looping through testcases
-    while(testcases > 0):
-        a = int(input())
-        b = int(input())
-        flag = input()
+    testcases=int(input()) #testcases
+    while(testcases>0):
+        N = int(input())
+        multiplicationTable(N)
+        print()
+        testcases-=1
         
-        if(flag == "True"):
-            flag = True
-        else:
-            flag = False
-        
-        if(check_status(a, b, flag) is True):
-            print ("True")
-        else:
-            print ("False")
-        
-        testcases -= 1
- 
-if __name__ == '__main__':
+
+
+if __name__=='__main__':
     main()
 #} Driver Code Ends
