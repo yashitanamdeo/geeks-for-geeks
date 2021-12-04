@@ -8,6 +8,17 @@
 def cat_hat(str):
     return str.count('cat')==str.count('hat')
 
+# Alternative Solution
+def cat_hat(str):
+    cat = 0
+    hat = 0
+    for i in range(0,len(str)-2):
+        if str[i:i+3] == 'cat':
+            cat+=1
+        if str[i:i+3] == 'hat':
+            hat+=1
+    return cat == hat
+   
 #{ 
 #Driver Code Starts.
 

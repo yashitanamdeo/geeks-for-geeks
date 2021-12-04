@@ -13,6 +13,19 @@ def pos(n):
 def neg(n):
     for i in range(n,1):
         print(i, end=" ")
+    
+    
+'''Alternative Solution'''
+'''def pos(n):
+    while (n>0):
+        print(n-1,end=" ")
+        n-=1
+
+    
+def neg(n):
+    while (n<=0):
+        print(n,end=" ")
+        n+=1 '''
 
 #{ 
 #Driver Code Starts.
