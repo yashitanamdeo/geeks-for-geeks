@@ -6,6 +6,17 @@ def reverseWord(s):
     #your code here
     return s[::-1]
 
+    '''
+    Alternate Method
+    
+    def reverseWord(s):
+
+        reverseWord = ""
+        for letter in s:
+            reverseWord = letter + reverseWord
+        return reverseWord
+    
+    '''
 #{ 
 #  Driver Code Starts
 #Initial Template for Python 3
