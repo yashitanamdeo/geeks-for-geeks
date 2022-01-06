@@ -1,0 +1,1 @@
+# Problem Statement: https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1
