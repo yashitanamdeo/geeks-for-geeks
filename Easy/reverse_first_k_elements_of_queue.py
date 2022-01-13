@@ -15,7 +15,17 @@ def modifyQueue(q,k):
     a = a[::-1]
     return (a+b)
     #return q[:k][::-1] + q[k:]
-
+'''
+def modifyQueue(q,k):
+    # code here
+    lst=[]
+    for i in range(k):
+        a=q.pop(0)
+        lst.append(a)
+    lst.reverse()
+    lst.extend(q)
+    return lst
+'''
 #{ 
 #  Driver Code Starts
 #Initial Template for Python 3
