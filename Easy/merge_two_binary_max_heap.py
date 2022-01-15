@@ -4,6 +4,15 @@
 
 class Solution():
    def mergeHeaps(self, a, b, n, m):
+       '''
+       Method 1: Sorting in Desending order
+       
+        def mergeHeaps(self, a, b, n, m):
+            a.extend(b)
+            a.sort()
+            a.reverse()
+            return a
+       '''
        #your code here
        self.a=a
        self.b=b
