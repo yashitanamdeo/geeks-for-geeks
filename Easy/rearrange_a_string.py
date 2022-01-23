@@ -1,3 +1,5 @@
+# Problem Statement: https://practice.geeksforgeeks.org/problems/rearrange-a-string4100/1
+
 #User function Template for python3
 
 class Solution:
