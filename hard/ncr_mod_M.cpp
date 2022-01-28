@@ -71,3 +71,21 @@ int main(){
 	}
 	return 0;
 }  // } Driver Code Ends
+
+
+// My Python Solution (Passed 30/90 test cases)
+/*
+class Solution:
+	def nCr(self, n, r):
+        def factorial(num):
+            return 1 if (num==1 or num==0) else num * factorial(num - 1)
+    		    
+    	ans = None
+    	n_fact = factorial(n)
+    	r_fact = factorial(r)
+    	n_minus_r = n - r
+    	n_minus_r_fact = factorial(n_minus_r)
+    	
+    	ans = n_fact//(n_minus_r_fact * r_fact)
+    	return (ans%1000003)
+*/
