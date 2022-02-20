@@ -1,1 +1,0 @@
-# Problem Statement: https://practice.geeksforgeeks.org/problems/smallest-absolute-difference4320/1#
