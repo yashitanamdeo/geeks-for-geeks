@@ -1,0 +1,1 @@
+# Problem Statement: https://practice.geeksforgeeks.org/problems/smallest-greater-elements-in-whole-array2751/1#
