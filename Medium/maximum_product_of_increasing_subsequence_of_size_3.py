@@ -1,0 +1,1 @@
+# Problem Statement: https://practice.geeksforgeeks.org/problems/maximum-product-of-increasing-subsequence-of-size-32027/1#
