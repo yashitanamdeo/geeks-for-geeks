@@ -1,4 +1,4 @@
-# Problem Statement: https://practice.geeksforgeeks.org/problems/move-all-zeros-to-the-front-of-the-linked-list/1
+// Problem Statement: https://practice.geeksforgeeks.org/problems/move-all-zeros-to-the-front-of-the-linked-list/1
 
 // { Driver Code Starts
 //Initial Template for C++
