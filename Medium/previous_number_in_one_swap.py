@@ -2,37 +2,30 @@
 
 #User function Template for python3
 class Solution:
-    def previousNumber (ob,s):
-        # code here 
-        n= len(s)
-        arr = list(s)
-        flag = False
-        for i in range(n-1):
-            if arr[i] <= arr[i+1]:
-                continue
-            else:
-                Flag = True
-                break
-        if flag:
-            return -1
-        idx = None
-        for i in range(n-1,0,-1):
-            if arr[i-1] > arr[i]:
-                idx = i-1
-                break
-        if idx == None:
-            return -1
-        temp = '-999999'
-        for j in range(n-1,idx,-1):
-            if arr[j] < arr[idx]:
-                if arr[j] >= temp:
-                    idx2 = j
-                    temp = arr[idx2]
-        arr[idx],arr[idx2] = arr[idx2],arr[idx]
-        ans = ''.join(arr)
-        if ans[0] == '0':
-            return -1
-        return ans
+   def lower_bound(ob,A,i):
+       m = -1
+       k = 0
+       for j in range(i,len(A)):
+           if A[i-1] > A[j]:
+               if m < int(A[j]):
+                   m = int(A[j])
+                   k = j
+       return k
+   def previousNumber(ob,S):
+       # code here 
+       A = list(S)
+       t = 0
+       d = 0
+       for i in range(len(S)-1,0,-1):
+           if A[i] < A[i-1]:
+               t = ob.lower_bound(A,i)
+               A[t],A[i-1] = A[i-1],A[t]
+               break
+       r = ''.join(A)
+       if S == r or r[0] == '0':
+           return -1
+       else:
+           return r
         
 
 #{ 
