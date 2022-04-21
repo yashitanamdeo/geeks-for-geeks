@@ -1,0 +1,1 @@
+# Problem Statement: https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates0744/1
