@@ -1,0 +1,1 @@
+# Problem Statement: https://practice.geeksforgeeks.org/problems/queries-on-strings5636/1gi
