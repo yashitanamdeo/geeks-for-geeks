@@ -1,0 +1,1 @@
+# Problem Statement: https://practice.geeksforgeeks.org/problems/super-primes2443/1
