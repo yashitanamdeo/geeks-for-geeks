@@ -2,4 +2,4 @@
 <br>
 <br>
 The readme is in progress..<br> 
-To be updated sooner..
+To be updated sooner with all questions..
