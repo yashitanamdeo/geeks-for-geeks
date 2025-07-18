@@ -16,6 +16,15 @@ class Solution:
             return (N-2)*(N-1)*(N-3)
         return N*(N-1)*(N-3)
 
+class Solution1: 
+    def lcmTriplets(self, n):
+        if n<3:
+            return n
+        if n%2:
+            return n*(n-1)*(n-2)
+        if n%3:
+            return n*(n-1)*(n-3)
+        return (n-1)*(n-2)*(n-3)
 
 #{
  # Driver Code Starts
