@@ -1,4 +1,4 @@
-# Problem Statement: https://practice.geeksforgeeks.org/problems/7a33c749a79327b2889d420dd80342fff33aac6d/1
+# Problem Statement: https://www.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1
 
 #User function Template for python3
 class Solution:
@@ -15,6 +15,17 @@ class Solution:
         return max(arr[0],arr[1]);
 
 
+class Solution2:
+
+	def findMaxSum(self, arr, n):
+		# code here
+		res, pre, cur = 0, 0, 0
+		for i in range(n):
+		    cur = pre + arr[i]
+		    pre = res
+		    res = max(cur, res)
+		return res
+     
 #{ 
  # Driver Code Starts
 #Initial Template for Python 3

@@ -24,7 +24,22 @@ class Solution:
 
         return res
 
+class Solution2:
+    def smallestSubstring(self, S):
+           
+        lstind = [-1,-1,-1]
+        ans = 1000000
+       
+        for index, item in enumerate(S):
+            lstind[int(item)] = index+1
+            if -1 not in lstind:
 
+                ans = min(ans, max(lstind)- min(lstind))
+       
+        if ans == 1000000:
+            return -1
+        return ans + 1
+    
 # {
  # Driver Code Starts
 # Initial Template for Python 3
