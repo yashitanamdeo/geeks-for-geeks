@@ -16,7 +16,7 @@ Since the answer can be very large, the <b>answer modulo 10<sup>9</sup>+7</b> sh
 
 <b>Examples:</b>
 
-<pre><b>Input: </b>Linked List = 1 -> 1 -> 1 -> 0<br><br><b>Output: </b>14<b><br></b><b>Explanation: </b>1*2<sup>3</sup> + 1*2<sup>2</sup> + 1*2<sup>1</sup> + 0*2<sup>0</sup> =  8 + 4 + 2 + 0 = 14</pre>
+<pre><b>Input: </b>Linked List = 1 -> 1 -> 1 -> 0<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700183/Web/Other/blobid0_1724049739.png" alt="" title="" height="100"/><br><b>Output: </b>14<b><br></b><b>Explanation: </b>1*2<sup>3</sup> + 1*2<sup>2</sup> + 1*2<sup>1</sup> + 0*2<sup>0</sup> =  8 + 4 + 2 + 0 = 14</pre>
 
 <pre><b>Input: </b>Linked List: 0 -> 1 -> 1<br><b>Output: </b>3<br><b>Explanation: </b>0*2<sup>2</sup> + 1*2<sup>1</sup> + 1*2<sup>0</sup> =  1 + 2 + 0 = 3</pre>
 
