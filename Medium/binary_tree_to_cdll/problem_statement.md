@@ -20,7 +20,7 @@ Given a binary tree (BT), the task is to convert this to a Circular Doubly Linke
    3     2
 <b>Output:
 </b>3 1 2 
-2 1 3<br><b>
+2 1 3<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700548/Web/Other/blobid0_1723058025.png" alt="" title="" width="360" height="81"/><b>
 Explanation: </b>After converting tree to CDLL when CDLL is is traversed from head to tail and then tail to head, elements are displayed as in the output.
 </pre>
 
@@ -32,7 +32,7 @@ Explanation: </b>After converting tree to CDLL when CDLL is is traversed from he
 40  60
 <b>Output:
 </b>40 20 60 10 30 
-30 10 60 20 40<br><b>
+30 10 60 20 40<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700548/Web/Other/blobid1_1723058039.png" alt="" title="" width="364" height="82"/><b>
 Explanation: </b>After converting tree to CDLL, when CDLL is is traversed from head totail and then tail to head, elements are displayed as in the output.</pre>
 
 <b>Constraints:<br></b>1 <= number of nodes <= 10<sup>3<br></sup>0 <= data of a node <= 10<sup>4</sup>

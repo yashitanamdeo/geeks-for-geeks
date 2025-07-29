@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Difficulty" title="Difficulty" src="https://custom-icon-badges.demolab.com/badge/Difficulty: Medium-1F222E?style=for-the-badge&logoColor=white&logo=fire"/>
   <img alt="Accuracy" title="Accuracy" src="https://custom-icon-badges.demolab.com/badge/Accuracy: 42.12%25-1F222E?style=for-the-badge&logoColor=white&logo=target"/>
-  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 245K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 246K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   <img alt="Points" title="Points" src="https://custom-icon-badges.demolab.com/badge/Points: 4-1F222E?style=for-the-badge&logoColor=white&logo=award"/>
   <img alt="Average Time" title="Average Time" src="https://custom-icon-badges.demolab.com/badge/Average%20Time: 20m-1F222E?style=for-the-badge&logoColor=white&logo=clock"/>
 </p>
@@ -17,12 +17,12 @@ Given a grid of size <b>n*m</b> (n is the number of rows and m is the number of 
 <pre><b>Input: </b>grid[][] = [['L', 'L', 'W', 'W', 'W'], ['W', 'L', 'W', 'W', 'L'], ['L', 'W', 'W', 'L', 'L'], ['W', 'W', 'W', 'W', 'W'], ['L', 'W', 'L', 'L', 'W']]
 <b>Output: </b>4
 <b>Explanation:
-</b>The image below shows all the 4 islands in the grid.<br> </pre>
+</b>The image below shows all the 4 islands in the grid.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/891756/Web/Other/blobid1_1743509451.jpg" alt="" title="" width="186" height="183"/> </pre>
 
 <pre><b>Input: </b>grid[][] = [['W', 'L', 'L', 'L', 'W', 'W', 'W'], ['W', 'W', 'L', 'L', 'W', 'L', 'W']]
 <b>Output: </b>2
 <b>Expanation:
-</b>The image below shows 2 islands in the grid.<br> </pre>
+</b>The image below shows 2 islands in the grid.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/891756/Web/Other/blobid2_1743509488.jpg" alt="" title="" height="100"/> </pre>
 
 <b>Constraints:</b><br>1 ≤ n, m ≤ 500<br>grid[i][j] = {'L', 'W'}
 

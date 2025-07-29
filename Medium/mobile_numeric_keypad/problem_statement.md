@@ -10,7 +10,7 @@
 
 ## Problem Statement
 
-There is a standard <b>numeric keypad</b> on a mobile phone. You can press the <b>current button</b> or any button that is directly <b>above</b>, <b>below</b>, to the <b>left</b>, or to the <b>right</b> of it. For example, if you press <b>5</b>, then pressing <b>2</b>, <b>4</b>, <b>6</b>, or <b>8</b> is allowed. However, <b>diagonal movements</b> and pressing the <b>bottom row corner</b> buttons (<b>*</b> and <b>#</b>) are not allowed.<br>
+There is a standard <b>numeric keypad</b> on a mobile phone. You can press the <b>current button</b> or any button that is directly <b>above</b>, <b>below</b>, to the <b>left</b>, or to the <b>right</b> of it. For example, if you press <b>5</b>, then pressing <b>2</b>, <b>4</b>, <b>6</b>, or <b>8</b> is allowed. However, <b>diagonal movements</b> and pressing the <b>bottom row corner</b> buttons (<b>*</b> and <b>#</b>) are not allowed.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/704157/Web/Other/blobid0_1718345574.png" alt="" title="" width="190" height="214"/>
 
 Given an integer <b>n</b>, determine how many <b>unique </b>sequences of length <b>n</b> can be formed by pressing buttons on the keypad, starting from any digit.
 

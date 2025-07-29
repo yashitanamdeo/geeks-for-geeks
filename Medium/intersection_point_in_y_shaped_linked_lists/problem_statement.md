@@ -17,12 +17,12 @@ Given two singly linked lists<b>, </b>write a program to get the point where two
 <pre><b>Input: </b>LinkedList1: 3->6->9->common, LinkedList2: 10->common, common: 15->30->NULL
 <b>Output: </b>15
 <b>Explanation:
-</b> </pre>
+</b><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/713544/Web/Other/blobid1_1723204650.png" alt="" title="" width="443" height="265"/> </pre>
 
 <pre><b>Input: </b>LinkedList1: 4->1->common, LinkedList2: 5->6->1->common, common: 8->4->5->NULL
 <b>Output: </b>8
 <b>Explanation: </b>
-<b>  </b></pre>
+<b><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/713544/Web/Other/blobid2_1723204735.png" alt="" title="" width="428" height="322"/>  </b></pre>
 
 <b>Expected Time Complexity:</b> O(n+m)<br><b>Expected Space </b><b>Complexity</b><b>:</b> O(n)
 

@@ -18,10 +18,10 @@ Given <b>that two linked lists are </b>sorted in <b>increasing order</b>, create
 
 <pre><b>Input: </b>LinkedList1 = 1->2->3->4->6, LinkedList2 = 2->4->6->8
 <b>Output: </b>2->4->6<b>
-Explanation: </b>For the given two linked list, 2, 4 and 6 are the elements in the intersection.<br><br></pre>
+Explanation: </b>For the given two linked list, 2, 4 and 6 are the elements in the intersection.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700191/Web/Other/blobid0_1724332831.png" alt="" title="" width="399" height="191"/><br></pre>
 
 <pre><b>Input: </b>LinkedList1 = 10->20->40->50, LinkedList2 = 15->40
-<b>Output: </b>40<br><b>Explaination:</b><br><br></pre>
+<b>Output: </b>40<br><b>Explaination:</b><br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700191/Web/Other/blobid1_1724332853.png" alt="" title="" width="385" height="184"/><br></pre>
 
 <b>Constraints:</b><br>1 <= size of linked lists <= 10<sup>4</sup><br>1 <= node->data<= 10<sup>4</sup>
 

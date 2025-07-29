@@ -16,13 +16,13 @@ Given a singly linked list, remove all nodes that have a node with a greater val
 
 <pre><b>Input:
 </b>LinkedList = 12->15->10->11->5->6->2->3
-<b>Output: </b>15->11->6->3<br><b>
+<b>Output: </b>15->11->6->3<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700101/Web/Other/blobid0_1723577084.png" alt="" title="" width="430" height="97"/><b>
 Explanation: </b>Since, 12, 10, 5 and 2 are the elements which have greater elements on the following nodes. So, after deleting them, the linked list would like be 15, 11, 6, 3.
 </pre>
 
 <pre><b>Input:
 </b>LinkedList = 10->20->30->40->50->60
-<b>Output: </b>60<br><br><b>Explanation: </b>All the nodes except the last node has a greater value node on its right, so all the nodes except the last node must be removed.</pre>
+<b>Output: </b>60<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700101/Web/Other/blobid1_1723577204.png" alt="" title="" width="430" height="97"/><br><b>Explanation: </b>All the nodes except the last node has a greater value node on its right, so all the nodes except the last node must be removed.</pre>
 
 <b>Constraints:</b><br>1 ≤ size of linked list ≤ 10<sup>6</sup><br>1 ≤ element of linked list ≤ 10<sup>6</sup><br><br><b>Note: Try to solve the problem without using any extra space.</b>
 

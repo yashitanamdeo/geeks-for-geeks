@@ -24,7 +24,7 @@ arr[ ] = {1, 2, 3, 3}
 penalty[ ] = {1, 2, 3, 4}
 <b>Output: </b>5
 <b>Explanation:
-</b>
+</b><img src="https://media.geeksforgeeks.org/img-practice/PROD/addEditProblem/714335/Web/Other/61efa792-2350-42a3-bedb-a0afd2e8399d_1685088030.jpg" alt="" title=""/>
 
 For i = 1, traversal time = 0 second since this is the start point.  
 For i = 2, traversal time = 1 second 
@@ -41,7 +41,7 @@ time ={8, 4, 1, 5, 2, 8, 9, 3}<b>
 Output:</b>
 35<b>
 Explanation:
-</b>
+</b><img src="https://media.geeksforgeeks.org/img-practice/PROD/addEditProblem/714335/Web/Other/0b7f2587-3fca-4819-b729-acf6c361e4c2_1685088031.jpg" alt="" title=""/>
 </pre>
 
 <b>Your Task:</b><br>You don't need to read input or print anything. Your task is to complete the function totalTime() which takes three input parameters n, arr[ ], penalty[ ] and returns the total time taken to traverse through the array. <br><br><b>Expected Time Complexity:</b> O(n)<br><b>Expected Auxiliary Space:</b> O(n)<br><br><b>Constraints:</b><br>1 <= n <= 10^5<br>1 <= arr[i] <= n<br>1 <= time[i] <= 10^5

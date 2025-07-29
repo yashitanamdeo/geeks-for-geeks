@@ -16,11 +16,11 @@ Given a tree with n nodes where <b>n</b> is <b>even</b>. The tree is numbered fr
 
 <pre><b>Input: </b>n = 10, edges = [[2,1],[3,1],[4,3],[5,2],[6,1],[7,2],[8,6],[9,8],[10,8]]
 <b>Output: </b>2
-<b>Explanation:<br></b>Original tree:<br><br>After removing edge 1-3 and 1-6, each remaining component consists of even number of nodes. <br><br></pre>
+<b>Explanation:<br></b>Original tree:<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/880846/Web/Other/blobid0_1732601788.png" alt="" title="" width="432" height="428"/><br>After removing edge 1-3 and 1-6, each remaining component consists of even number of nodes. <br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/880846/Web/Other/blobid1_1732601873.png" alt="" title="" width="430" height="426"/><br></pre>
 
 <pre><b>Input: </b>n = 4, edges = [[2,1],[4,2],[1,3]]
 <b>Output: </b>1
-<b>Explanation: <br></b>Original tree:<br><b><br></b>After removing 1-2, each remaining component consists of even number of nodes.<br><br></pre>
+<b>Explanation: <br></b>Original tree:<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/880846/Web/Other/blobid2_1732602037.png" alt="" title="" width="424" height="420"/><b><br></b>After removing 1-2, each remaining component consists of even number of nodes.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/880846/Web/Other/blobid3_1732602310.png" alt="" title="" width="421" height="417"/><br></pre>
 
 <b>Constraints:</b><br>1 <= n <= 10<sup>5</sup><br>edges.size() = n - 1<br>1 <= edges[i][0], edges[i][1] <= n
 

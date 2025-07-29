@@ -25,11 +25,11 @@ p[] = {-1, 0, 0, 1, 1}
 </b>1
 <b>Explanation</b>: 
 Tree looks like:
-            
+            <img src="https://media.geeksforgeeks.org/img-practice/PROD/addEditProblem/714517/Web/Other/02e0710d-481c-4add-bd29-7114737e9990_1685088062.png" alt="" title="" width="186" height="186"/>
 Merge the node 2 to 0 in one operation
 
 Our Tree will look like:
-            
+            <img src="https://media.geeksforgeeks.org/img-practice/PROD/addEditProblem/714517/Web/Other/09987026-7f43-4936-8ace-331f57083138_1685088062.png" alt="" title="" width="165" height="183"/>
 </pre>
 
 <b>Example 2:</b>
@@ -41,15 +41,15 @@ p[] = {-1 0 0 0 0 2 2 5}
 <b>Explanation</b>:
 Tree looks like:
 
-        
+        <img src="https://media.geeksforgeeks.org/img-practice/PROD/addEditProblem/714517/Web/Other/f5c895e1-7ac4-4cd7-a643-0e457808f515_1685088062.png" alt="" title="" width="244" height="230"/>
 
 Merge node 5 to 2, tree will look like
 
-          
+          <img src="https://media.geeksforgeeks.org/img-practice/PROD/addEditProblem/714517/Web/Other/7a974d9a-2726-4069-9753-87d3384b36a6_1685088061.png" alt="" title="" width="239" height="164"/>
 
 and then 2 to 0, finally the tree will be:
 
-             
+             <img src="https://media.geeksforgeeks.org/img-practice/PROD/addEditProblem/714517/Web/Other/eeb48c25-c3fd-485e-ac14-099540c24d03_1685088062.png" alt="" title="" width="210" height="106"/>
 
 thus tree formed will be a star tree.
  

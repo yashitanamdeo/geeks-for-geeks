@@ -14,9 +14,9 @@ Given a singly linked list containing nodes with English alphabets <b>('a'-'z')<
 
 <b>Examples:</b>
 
-<pre><b>Input: </b>Linked list: a -> b -> c -> d -> e -> f -> g -> h -> i <br><b>Output:</b> a -> e -> i -> b -> c -> d -> f -> g -> h<br><br><b>Explanation:</b> After rearranging the input linked list according to the condition the resultant linked list will be as shown in output.</pre>
+<pre><b>Input: </b>Linked list: a -> b -> c -> d -> e -> f -> g -> h -> i <br><b>Output:</b> a -> e -> i -> b -> c -> d -> f -> g -> h<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700591/Web/Other/blobid0_1725181056.png" alt="" title="" width="444" height="100"/><br><b>Explanation:</b> After rearranging the input linked list according to the condition the resultant linked list will be as shown in output.</pre>
 
-<pre><b>Input:</b> Linked list: a -> b -> a -> b -> d -> e -> e -> d <br><b>Output:</b> a -> a -> e -> e -> b -> b -> d -> d<br><br><b>Explanation:</b> After rearranging the input linked list according to the condition the resultant linked list will be as shown in output.<br></pre>
+<pre><b>Input:</b> Linked list: a -> b -> a -> b -> d -> e -> e -> d <br><b>Output:</b> a -> a -> e -> e -> b -> b -> d -> d<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700591/Web/Other/blobid1_1725181062.png" alt="" title="" height="100"/><br><b>Explanation:</b> After rearranging the input linked list according to the condition the resultant linked list will be as shown in output.<br></pre>
 
 <b>Expected Time Complexity :</b> <b> </b>O(n)<br><b>Expected Auxiliary Space :  </b>O(1)
 

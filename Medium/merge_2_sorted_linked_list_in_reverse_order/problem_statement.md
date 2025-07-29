@@ -14,9 +14,9 @@ Given two linked lists, which are sorted in <b>non-decreasing</b> order. The tas
 
 <b>Examples:</b>
 
-<pre><b>Input: </b>LinkedList1 = 1->3, LinkedList2 = 2->4<br><b>Output: </b>4->3->2->1<br><b>Explanation: </b>After merging the two lists in non-increasing order, we have new lists as 4->3->2->1.<br><br></pre>
+<pre><b>Input: </b>LinkedList1 = 1->3, LinkedList2 = 2->4<br><b>Output: </b>4->3->2->1<br><b>Explanation: </b>After merging the two lists in non-increasing order, we have new lists as 4->3->2->1.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700073/Web/Other/blobid0_1724395612.png" alt="" title="" width="456" height="215"/><br></pre>
 
-<pre><b>Input: </b>LinkedList1 = 5->10->15->40, LinkedList2 = 2->3->20<br><b>Output: </b>40->20->15->10->5->3->2<br><b>Explanation: </b>After merging the two lists in non-increasing order, we have new lists as 40->20->15->10->5->3->2.<br><br></pre>
+<pre><b>Input: </b>LinkedList1 = 5->10->15->40, LinkedList2 = 2->3->20<br><b>Output: </b>40->20->15->10->5->3->2<br><b>Explanation: </b>After merging the two lists in non-increasing order, we have new lists as 40->20->15->10->5->3->2.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700073/Web/Other/blobid1_1724395627.png" alt="" title="" width="505" height="238"/><br></pre>
 
 <b>Expected Time Complexity:</b> O(n+m)<br><b>Expected Space </b><b>Complexity</b><b>:</b> O(1)
 

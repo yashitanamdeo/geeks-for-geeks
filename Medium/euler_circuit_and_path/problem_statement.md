@@ -15,10 +15,10 @@
 <b>Examples</b>
 
 <pre><b>Input: 
-</b><br><b>Output: </b>2
+</b><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700537/Web/Other/blobid0_1745469108.jpg" alt="" title="" width="226" height="200"/><br><b>Output: </b>2
 <b>Explanation: <br></b>Following is an eulerian circuit in the mentioned graph<b><br></b>1 -> 2 -> 0 -> 1</pre>
 
-<pre><b>Input: </b><br><br><b>Output: </b>1
+<pre><b>Input: </b><br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700537/Web/Other/blobid4_1745469310.jpg" alt="" title="" width="221" height="196"/><br><b>Output: </b>1
 <b>Explanation: <br></b>Following is an eulerian path in the mentioned graph<br>1 -> 0 -> 2</pre>
 
 <b>Your Task:</b><br>You don't need to read or print anything. Your task is to complete the function <b>isEulerCircuilt() </b>which takes number of vertices in the graph denoted as <b>V</b> and an adjacency list of graph denoted as <b>adj </b>and returns 2 if the graph contains an <b>eulerian circuit</b>, else if the graph contains an <b>eulerian path, </b>it returns 1, otherwise, it will return 0.

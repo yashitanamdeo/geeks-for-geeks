@@ -12,7 +12,7 @@
 
 Given two strings <b>S1</b> and <b>S2</b> of equal length, the task is to determine if S2 is a scrambled form of S1.
 
-<b>Scrambled string:</b> Given string <b>str</b>, we can represent it as a binary tree by partitioning it into two non-empty substrings recursively.<br>Below is one possible representation of str = <b>coder:</b><br> <br>To scramble the string, we may choose any non-leaf node and swap its two children. <br>Suppose, we choose the node <b>co</b> and swap its two children, it produces a scrambled string <b>ocder</b>.<br>Similarly, if we continue to swap the children of nodes <b>der</b> and <b>er</b>, it produces a scrambled string <b>ocred</b>.
+<b>Scrambled string:</b> Given string <b>str</b>, we can represent it as a binary tree by partitioning it into two non-empty substrings recursively.<br>Below is one possible representation of str = <b>coder:</b><br> <img src="https://media.geeksforgeeks.org/img-practice/PROD/addEditProblem/707514/Web/Other/5360f3bd-09bb-4f9d-9c84-be3844091359_1685087790.png" alt="" title=""/><br>To scramble the string, we may choose any non-leaf node and swap its two children. <br>Suppose, we choose the node <b>co</b> and swap its two children, it produces a scrambled string <b>ocder</b>.<br>Similarly, if we continue to swap the children of nodes <b>der</b> and <b>er</b>, it produces a scrambled string <b>ocred</b>.
 
 <b>Note:</b> Scrambled string is not the same as an Anagram.
 

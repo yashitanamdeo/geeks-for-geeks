@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Difficulty" title="Difficulty" src="https://custom-icon-badges.demolab.com/badge/Difficulty: Easy-1F222E?style=for-the-badge&logoColor=white&logo=fire"/>
   <img alt="Accuracy" title="Accuracy" src="https://custom-icon-badges.demolab.com/badge/Accuracy: 46.33%25-1F222E?style=for-the-badge&logoColor=white&logo=target"/>
-  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 91K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 92K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   <img alt="Points" title="Points" src="https://custom-icon-badges.demolab.com/badge/Points: 2-1F222E?style=for-the-badge&logoColor=white&logo=award"/>
   <img alt="Average Time" title="Average Time" src="https://custom-icon-badges.demolab.com/badge/Average%20Time: N/A-1F222E?style=for-the-badge&logoColor=white&logo=clock"/>
 </p>
@@ -17,11 +17,11 @@ Given elements as nodes of the two singly linked lists. The task is to multiply 
 <b>Examples :</b>
 
 <pre><b>Input: </b>LinkedList L1 : 3->2 , LinkedList L2 : 2<br><b>Output: </b>64<b>
-Explanation: <br><br></b>Multiplication of 32 and 2 gives 64.
+Explanation: <br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700336/Web/Other/blobid0_1721108424.png" alt="" title="" width="181" height="205"/><br></b>Multiplication of 32 and 2 gives 64.
 </pre>
 
 <pre><b>Input: </b>LinkedList L1: 1->0->0 , LinkedList L2 : 1->0<br><b>Output: </b>1000<b>
-Explanation: <br><br></b>Multiplication of 100 and 10 gives 1000.</pre>
+Explanation: <br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700336/Web/Other/blobid1_1721108436.png" alt="" title="" width="301" height="188"/><br></b>Multiplication of 100 and 10 gives 1000.</pre>
 
 <b>Expected Time Complexity</b>: O(max(n,m))<br><b>Expected Auxilliary Space</b>: O(1)<br>where n is the size of L1 and m is the size of L2
 

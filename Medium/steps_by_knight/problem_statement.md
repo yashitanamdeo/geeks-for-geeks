@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Difficulty" title="Difficulty" src="https://custom-icon-badges.demolab.com/badge/Difficulty: Medium-1F222E?style=for-the-badge&logoColor=white&logo=fire"/>
   <img alt="Accuracy" title="Accuracy" src="https://custom-icon-badges.demolab.com/badge/Accuracy: 37.32%25-1F222E?style=for-the-badge&logoColor=white&logo=target"/>
-  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 124K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 125K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   <img alt="Points" title="Points" src="https://custom-icon-badges.demolab.com/badge/Points: 4-1F222E?style=for-the-badge&logoColor=white&logo=award"/>
   <img alt="Average Time" title="Average Time" src="https://custom-icon-badges.demolab.com/badge/Average%20Time: 20m-1F222E?style=for-the-badge&logoColor=white&logo=clock"/>
 </p>
@@ -19,7 +19,7 @@ Given a square <b>chessboard </b>of<b> </b>size <b>(n x n)</b>, the initial posi
 <pre><b>Input: </b>n = 6, knightPos[] = [4, 5],targetPos[] = [1, 1]
 <b>Output: </b>3
 <b>Explanation:</b>
-
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/KnightChess.jpg" alt="" title=""/>
 Knight takes 3 step to reach from 
 (4, 5) to (1, 1):
 (4, 5) -> (5, 3) -> (3, 2) -> (1, 1).</pre>

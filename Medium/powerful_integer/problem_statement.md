@@ -42,4 +42,4 @@ You are given a 2D integer array <b>intervals[][]</b> of length <b>n</b>, where 
 - **Company Tags:** `None`
 
 ### Related Articles
-- [Find Maximum Powerful Integer With Occurrences %e2%89%a5 K In 2d Intervals](https://www.geeksforgeeks.org/find-maximum-powerful-integer-with-occurrences-%E2%89%A5-k-in-2d-intervals/)
+- [Powerful Integers](https://www.geeksforgeeks.org/powerful-integers/)

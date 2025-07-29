@@ -15,7 +15,7 @@ Given two binary trees with same number of nodes, the task is to check if each 
 <b>Example 1:</b>
 
 <pre><b>Input:</b>
-
+<img src="https://media.geeksforgeeks.org/img-practice/abc-1649622345.gif" alt="" title=""/>
 <b>Output: </b>1
 <b>Explanation:</b> 
 <b>Tree 1:</b>
@@ -35,7 +35,7 @@ are anagrams of each other, hence return true.
 <b>Example 2:</b>
 
 <pre><b>Input:
-
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20221119111710/WhatsAppImage20221119at111602AM.jpeg" alt="" title=""/>
 Output: 0</b>
 <b>Explanation:</b> 
 <b>Tree 1:

@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Difficulty" title="Difficulty" src="https://custom-icon-badges.demolab.com/badge/Difficulty: Hard-1F222E?style=for-the-badge&logoColor=white&logo=fire"/>
   <img alt="Accuracy" title="Accuracy" src="https://custom-icon-badges.demolab.com/badge/Accuracy: 39.26%25-1F222E?style=for-the-badge&logoColor=white&logo=target"/>
-  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 80K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 81K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   <img alt="Points" title="Points" src="https://custom-icon-badges.demolab.com/badge/Points: 8-1F222E?style=for-the-badge&logoColor=white&logo=award"/>
   <img alt="Average Time" title="Average Time" src="https://custom-icon-badges.demolab.com/badge/Average%20Time: 20m-1F222E?style=for-the-badge&logoColor=white&logo=clock"/>
 </p>
@@ -15,14 +15,14 @@ Given an undirected connected graph with <b>V </b>vertices and adjacency list
 <b>Example 1:</b>
 
 <pre><b>Input:
-</b>
+</b><img src="https://media.geeksforgeeks.org/img-practice/PROD/addEditProblem/708502/Web/Other/a27f9040-9783-4386-92f9-b8684c75db07_1685087852.png" alt="" title=""/>
 <b>Output:</b>{1,4}
 <b>Explanation: </b>Removing the vertex 1 will
 discconect the graph as-
-
+<img src="https://media.geeksforgeeks.org/img-practice/PROD/addEditProblem/708502/Web/Other/7e12629a-ba31-411e-b6ac-ccf5a8baa6a3_1685087852.png" alt="" title=""/>
 Removing the vertex 4 will disconnect the
 graph as-
-
+<img src="https://media.geeksforgeeks.org/img-practice/PROD/addEditProblem/708502/Web/Other/fb781bda-91d6-4920-96a8-c976412c3ada_1685087852.png" alt="" title=""/>
 </pre>
 
  

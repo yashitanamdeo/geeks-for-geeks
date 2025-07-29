@@ -18,7 +18,7 @@ Given a matrix with dimensions <b>N</b> x <b>M</b>, entirely filled with zeroes 
 N = 2, M = 3
 X = 2, Y = 3
 <b>Output:</b> 3 
-
+<img src="https://media.geeksforgeeks.org/img-practice/PROD/addEditProblem/713972/Web/Other/26f91e33-013f-40f2-badd-00804adaf31f_1685087947.png" alt="" title=""/>
 <b>Explanation</b>: 3 is the minimum possible 
 number of iterations in which the
 matrix can be filled.
@@ -30,7 +30,7 @@ matrix can be filled.
 N = 1, M = 1
 X = 1, Y = 1 
 <b>Output: </b>0
-
+<img src="https://media.geeksforgeeks.org/img-practice/PROD/addEditProblem/713972/Web/Other/7f59ca2a-c242-49bc-b94e-ba0f3e95f43e_1685087947.png" alt="" title=""/>
 <b>Explanation</b>: The whole matrix is 
 already filled with ones.</pre>
 

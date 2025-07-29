@@ -10,46 +10,25 @@
 
 ## Problem Statement
 
-Given a sorted array <b>Arr[]</b>(0-index based) consisting of <b>N </b>distinct integers and an integer <b>k</b>, the task is to find the index of k, if its present in the array <b>Arr[]</b>. Otherwise, find the index where <b>k</b> must be inserted to keep the array sorted.
+Given a sorted array <b>arr[] </b>(0-index based) of distinct integers and an integer <b>k</b>, find the <b>index </b>of k if it is present in the arr[]. If not, return the <b>index </b>where k should be inserted to maintain the <b>sorted order</b>.
 
-<br>
-<b>Example 1:</b>
+<b>Examples :</b>
 
-<pre><b>Input:</b>
-N = 4
-Arr = {1, 3, 5, 6}
-k = 5
-<b>Output:</b> 2
-<b>Explaination:</b> Since 5 is found at index 2 
-as Arr[2] = 5, the output is 2.</pre>
+<pre><b>Input: </b>arr[] = [1, 3, 5, 6], k = 5<b>
+Output: </b>2<b>
+Explanation: </b>Since 5 is found at index 2 as arr[2] = 5, the output is 2.</pre>
 
-<br>
-<b>Example 2:</b>
+<pre><b>Input: </b>arr[] = [1, 3, 5, 6], k = 2<b>
+Output: </b>1<b>
+Explanation: </b>The element 2 is not present in the array, but inserting it at index 1 will maintain the sorted order.</pre>
 
-<pre><b>Input:</b>
-N = 4
-Arr = {1, 3, 5, 6}
-k = 2
-<b>Output:</b> 1
-<b>Explaination:</b> Since 2 is not present in 
-the array but can be inserted at index 1 
-to make the array sorted.
-</pre>
+<pre><b>Input:</b> arr[] = [2, 6, 7, 10, 14], k = 15<br><b>Output:</b> 5<br><b>Explanation:</b> The element 15 is not present in the array, but inserting it after index 4 will maintain the sorted order.</pre>
 
-<br>
-<b>Your Task:</b><br>
-You don't need to read input or print anything. Your task is to complete the function <b>searchInsertK()</b> which takes the array <b>Arr[]</b> and its size <b>N </b>and <b>k </b>as input parameters and returns the index.
+<b>Constraints:<br></b>1 ≤ arr.size() ≤ 10<sup>4</sup><br>-10<sup>3</sup> ≤ arr[i] ≤ 10<sup>3</sup><br>-10<sup>3</sup> ≤ k ≤ 10<sup>3</sup>
 
-<br>
-<b>Expected Time Complexity:</b> O(logN)<br>
-<b>Expected Auxiliary Space:</b> O(1)
-
-<br>
-<b>Constraints:</b><br>
-1 ≤ N ≤ 10<sup>4</sup><br>
--10<sup>3</sup> ≤ Arr[i] ≤ 10<sup>3</sup><br>
--10<sup>3</sup> ≤ k ≤ 10<sup>3</sup>
-
+## Expected Complexities
+- Time Complexity: O(log n)
+- Auxiliary Space: O(1)
 
 <hr>
 

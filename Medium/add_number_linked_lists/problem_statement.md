@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Difficulty" title="Difficulty" src="https://custom-icon-badges.demolab.com/badge/Difficulty: Medium-1F222E?style=for-the-badge&logoColor=white&logo=fire"/>
   <img alt="Accuracy" title="Accuracy" src="https://custom-icon-badges.demolab.com/badge/Accuracy: 34.52%25-1F222E?style=for-the-badge&logoColor=white&logo=target"/>
-  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 346K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 348K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   <img alt="Points" title="Points" src="https://custom-icon-badges.demolab.com/badge/Points: 4-1F222E?style=for-the-badge&logoColor=white&logo=award"/>
   <img alt="Average Time" title="Average Time" src="https://custom-icon-badges.demolab.com/badge/Average%20Time: 30m-1F222E?style=for-the-badge&logoColor=white&logo=clock"/>
 </p>
@@ -18,10 +18,10 @@ For example, num1 represented by the linked list : <b>1 -> 9 -> 0, </b>similarl
 
 <b>Examples:</b>
 
-<pre><b>Input: </b>num1 = 4 - > 5, num2 = 3 -> 4 -> 5<br><b>Output:  </b>3 -> 9 -> 0<b><br></b> <b>
+<pre><b>Input: </b>num1 = 4 - > 5, num2 = 3 -> 4 -> 5<br><b>Output:  </b>3 -> 9 -> 0<b><br></b><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700043/Web/Other/blobid0_1749213210.webp" alt="" title="" width="242" height="170"/> <b>
 Explanation: </b>Given numbers are 45 and 345. There sum is 390.<br></pre>
 
-<pre><b>Input: </b>num1 = 0 -> 0 -> 6 -> 3, num2 = 0 -> 7 <br><b>Output: </b>7 -> 0 <br><br><b>Explanation: </b>Given numbers are 63 and 7. There sum is 70.</pre>
+<pre><b>Input: </b>num1 = 0 -> 0 -> 6 -> 3, num2 = 0 -> 7 <br><b>Output: </b>7 -> 0 <br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700043/Web/Other/blobid1_1749213234.webp" alt="" title="" width="226" height="125"/><br><b>Explanation: </b>Given numbers are 63 and 7. There sum is 70.</pre>
 
 <b>Constraints:</b><br>1 <= size of both linked lists <= 10<sup>6</sup><sup><br></sup>0 <= elements of both linked lists <= 9
 

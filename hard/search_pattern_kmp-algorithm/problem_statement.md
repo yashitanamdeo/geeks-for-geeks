@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Difficulty" title="Difficulty" src="https://custom-icon-badges.demolab.com/badge/Difficulty: Hard-1F222E?style=for-the-badge&logoColor=white&logo=fire"/>
   <img alt="Accuracy" title="Accuracy" src="https://custom-icon-badges.demolab.com/badge/Accuracy: 45.04%25-1F222E?style=for-the-badge&logoColor=white&logo=target"/>
-  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 120K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 121K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   <img alt="Points" title="Points" src="https://custom-icon-badges.demolab.com/badge/Points: 8-1F222E?style=for-the-badge&logoColor=white&logo=award"/>
   <img alt="Average Time" title="Average Time" src="https://custom-icon-badges.demolab.com/badge/Average%20Time: N/A-1F222E?style=for-the-badge&logoColor=white&logo=clock"/>
 </p>
@@ -25,7 +25,7 @@ Given two strings, one is a text string <b>txt</b> and the other is a pattern 
 
 <pre><b>Input</b>: txt = "aabaacaadaabaaba", pat = "aaba"
 <b>Output:</b> [0, 9, 12]
-<b>Explanation</b>:<br><br></pre>
+<b>Explanation</b>:<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/703119/Web/Other/blobid0_1731391225.png" alt="" title="" width="377" height="188"/><br></pre>
 
 <b>Constraints:</b><br>1 ≤ txt.size() ≤ 10<sup>6</sup><br>1 ≤ pat.size() < txt.size()<br>Both the strings consist of lowercase English alphabets.
 

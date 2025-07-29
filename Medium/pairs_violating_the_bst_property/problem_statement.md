@@ -20,7 +20,7 @@ Given a binary tree with <b>n</b> nodes, find the number of <b>pairs violatin
 <pre><b>Input : </b>
 n = 5
 Input tree
-    
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/861883/Web/Other/blobid0_1709054479.png" alt="" title="" width="351" height="245"/>    
 <b>Output :</b>
 5
 <b>Explanation : </b>
@@ -33,7 +33,7 @@ Pairs violating BST property are:-
 
 <pre><b>Input : </b>
 n = 6<br>Input tree
-
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/861883/Web/Other/blobid1_1709055216.png" alt="" title="" width="402" height="219"/>
 <b>Output :</b>
 9
 <b>Explanation :</b>

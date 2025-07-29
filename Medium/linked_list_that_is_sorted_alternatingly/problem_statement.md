@@ -15,7 +15,7 @@ You are given a <b>Linked list</b><b>.</b> The list is in <b>alternating ascendi
 <b>Examples:</b>
 
 <pre><b>Input: </b>LinkedList = 13->99->21->80->50
-<b>Output: </b>13->21->50->80->99<br><br><b>Explanation: </b>After sorting the given list will be 13->21->50->80->99.</pre>
+<b>Output: </b>13->21->50->80->99<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700572/Web/Other/blobid1_1724073782.png" alt="" title="" width="406" height="142"/><br><b>Explanation: </b>After sorting the given list will be 13->21->50->80->99.</pre>
 
 <pre><b>Input: </b>LinkedList = 1->9->2->8->3->7
 <b>Output: </b>1->2->3->7->8->9<b>

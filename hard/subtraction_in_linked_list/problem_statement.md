@@ -16,9 +16,9 @@ The linked list does not contain leading zeros, except for the number zero itsel
 
 <b>Examples:</b>
 
-<pre><b>Input: </b>LinkedList1: 1->0->0, LinkedList2: 1->2<br><b>Output:  </b>LinkedList: 8->8<br><b>Explanation: </b>First linked list represents 100 and the second one represents 12. 12 subtracted from 100 gives us 88 as the result. It is represented as 8->8 in the linked list.<br><br></pre>
+<pre><b>Input: </b>LinkedList1: 1->0->0, LinkedList2: 1->2<br><b>Output:  </b>LinkedList: 8->8<br><b>Explanation: </b>First linked list represents 100 and the second one represents 12. 12 subtracted from 100 gives us 88 as the result. It is represented as 8->8 in the linked list.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700313/Web/Other/blobid1_1735211009.png" alt="" title="" width="300" height="193"/><br></pre>
 
-<pre><b>Input: </b>LinkedList1: 6->3, LinkedList2: 7->1->0<br><b>Output: </b>LinkedList: 6->4->7<br><b>Explanation: </b>First linked list represents 63 and the second one represents 710. 63 subtracted from 710 gives us 647 as the result. It is represented as 6->4->7 in the linked list.<br><br></pre>
+<pre><b>Input: </b>LinkedList1: 6->3, LinkedList2: 7->1->0<br><b>Output: </b>LinkedList: 6->4->7<br><b>Explanation: </b>First linked list represents 63 and the second one represents 710. 63 subtracted from 710 gives us 647 as the result. It is represented as 6->4->7 in the linked list.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700313/Web/Other/blobid2_1735211034.png" alt="" title="" width="299" height="193"/><br></pre>
 
 <b>Constraints:</b><br>1 <= size of both linked lists <= 10<sup>6</sup><br>0 <= node->data <= 9<sup><br></sup>
 

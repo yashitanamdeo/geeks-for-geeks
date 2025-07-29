@@ -14,11 +14,11 @@ Given a linked list and a value <b>x</b>, partition it such that all nodes less 
  
 <b>Examples:</b>
 <pre><b>Input: </b>Linked list:<b> </b>1->4->3->2->5->2->3, x = 3
-<b>Output: </b>1->2->2->3->3->4->5<br><br><b>Explanation: </b>Nodes with a value less than 3 come first, then equal to 3 and then greater than 3.
+<b>Output: </b>1->2->2->3->3->4->5<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/706230/Web/Other/blobid0_1722448150.png" alt="" title="" height="100"/><br><b>Explanation: </b>Nodes with a value less than 3 come first, then equal to 3 and then greater than 3.
 </pre>
 
 <pre><b>Input: </b>Linked list: 1->4->2->10, x = 3
-<b>Output: </b>1->2->4->10<br><br><b>Explanation: </b>Nodes with value less than 3 come first, then equal to 3 and then greater than 3.</pre>
+<b>Output: </b>1->2->4->10<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/706230/Web/Other/blobid1_1722448159.png" alt="" title="" height="100"/><br><b>Explanation: </b>Nodes with value less than 3 come first, then equal to 3 and then greater than 3.</pre>
 
 <b>Expected Time Complexity :</b> O(n)
 <b>Expected Space C</b><b>omplexity</b><b>:</b> O(n)

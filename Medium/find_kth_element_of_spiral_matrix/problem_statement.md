@@ -21,7 +21,7 @@ A[][] = {{1  2  3  4},
          {9  10 11 12},<br>         {13 14 15 16}}
 <b>Output:
 </b>13<b>
-Explanation:<br></b>
+Explanation:<br></b><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700274/Web/Other/blobid0_1687070632.png" alt="" title=""/>
 The spiral order of matrix will look like 1->2->3->4->8->12->16->15->14->13->9->5->6->7->11->10. So the 10th element in this order is 13. </pre>
 
 <b>Example 2</b><b>:</b>

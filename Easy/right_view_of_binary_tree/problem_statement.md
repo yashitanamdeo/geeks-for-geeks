@@ -19,12 +19,12 @@ Given a Binary Tree, Your task is to return the values visible from <b>Right vie
 <b>Examples :</b>
 
 <pre><b>Input: </b>root = [1, 2, 3, 4, 5]
-     
+     <img src="https://media.geeksforgeeks.org/wp-content/uploads/20240909100757/2_2.webp" alt="2_2" title="" width="246" height="219"/>
 <b>Output: </b>[1, 3, 5]
 </pre>
 
 <pre><b>Input: </b>root = [1, 2, 3, 4, N, N, 5]
-     
+     <img src="https://media.geeksforgeeks.org/wp-content/uploads/20240909100541/Right-view-in-binary-tree-1.webp" alt="Right-view-in-binary-tree-1" title="" width="244" height="217"/>
 <b>Output: </b>[1, 3, 4, 5]</pre>
 
 <pre><b>Input: </b>root = [10, 20, 90, 40, 60]

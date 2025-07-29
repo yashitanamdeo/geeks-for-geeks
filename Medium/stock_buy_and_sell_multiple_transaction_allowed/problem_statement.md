@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Difficulty" title="Difficulty" src="https://custom-icon-badges.demolab.com/badge/Difficulty: Medium-1F222E?style=for-the-badge&logoColor=white&logo=fire"/>
   <img alt="Accuracy" title="Accuracy" src="https://custom-icon-badges.demolab.com/badge/Accuracy: 13.43%25-1F222E?style=for-the-badge&logoColor=white&logo=target"/>
-  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 179K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 181K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   <img alt="Points" title="Points" src="https://custom-icon-badges.demolab.com/badge/Points: 4-1F222E?style=for-the-badge&logoColor=white&logo=award"/>
   <img alt="Average Time" title="Average Time" src="https://custom-icon-badges.demolab.com/badge/Average%20Time: N/A-1F222E?style=for-the-badge&logoColor=white&logo=clock"/>
 </p>
@@ -16,7 +16,7 @@ Note: A stock can only be sold if it has been bought previously and multiple sto
 
 <b>Examples:</b>
 
-<pre><b>Input: </b>prices[] = [100, 180, 260, 310, 40, 535, 695]<br><b>Output: </b>865<br><b>Explanation: </b>Buy the stock on day 0 and sell it on day 3 => 310 – 100 = 210. Buy the stock on day 4 and sell it on day 6 => 695 – 40 = 655. Maximum Profit = 210 + 655 = 865.<br><br><br><b>Input: </b>prices[] = [4, 2, 2, 2, 4]<br><b>Output: </b>2<br><b>Explanation: </b>Buy the stock on day 3 and sell it on day 4 => 4 – 2 = 2. Maximum Profit = 2.</pre>
+<pre><b>Input: </b>prices[] = [100, 180, 260, 310, 40, 535, 695]<br><b>Output: </b>865<br><b>Explanation: </b>Buy the stock on day 0 and sell it on day 3 => 310 – 100 = 210. Buy the stock on day 4 and sell it on day 6 => 695 – 40 = 655. Maximum Profit = 210 + 655 = 865.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/878914/Web/Other/blobid2_1731054745.png" alt="" title="" width="324" height="200"/><br><br><b>Input: </b>prices[] = [4, 2, 2, 2, 4]<br><b>Output: </b>2<br><b>Explanation: </b>Buy the stock on day 3 and sell it on day 4 => 4 – 2 = 2. Maximum Profit = 2.</pre>
 
 <b>Constraints:</b><br>1 <= prices.size() <= 10<sup>5</sup><br>0 <= prices[i] <= 10<sup>4</sup>
 

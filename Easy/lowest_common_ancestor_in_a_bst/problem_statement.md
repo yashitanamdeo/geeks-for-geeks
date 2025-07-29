@@ -17,15 +17,15 @@ Given a Binary Search Tree (with all values unique) and two nodes <b>n1 </b>and 
 <b>Examples:</b>
 
 <pre><b>Input: </b>root = [5, 4, 6, 3, N, N, 7, N, N, N, 8], n1 = 7, n2 = 8
-        
+        <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700236/Web/Other/blobid0_1738413634.png" alt="" title="" width="301" height="263"/>
 <b>Output: </b>7<br><b>Explanation:</b> 7 is the closest node to both 7 and 8, which is also an ancestor of both the nodes.
 </pre>
 
-<pre><b>Input: </b>root = [20, 8, 22, 4, 12, N, N, N, N, 10, 14], n1 = 8, n2 = 14<br>                
+<pre><b>Input: </b>root = [20, 8, 22, 4, 12, N, N, N, N, 10, 14], n1 = 8, n2 = 14<br>        <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700236/Web/Other/blobid1_1739265251.png" alt="" title="" width="288" height="254"/>        
 <b>Output: </b>8<br><b>Explanation:</b> 8 is the closest node to both 8 and 14, which is also an ancestor of both the nodes.</pre>
 
 <pre><b>Input: </b>root = [2, 1, 3], n1 = 1, n2 = 3
-        
+        <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700236/Web/Other/blobid1_1738413633.png" alt="" title="" width="309" height="249"/>
 <b>Output: </b>2<br><b>Explanation:</b> 2 is the closest node to both 1 and 3, which is also an ancestor of both the nodes.</pre>
 
 <b>Constraints:</b><br>1 <= number of nodes <= 10<sup>5<br></sup>1 <= node->data <= 10<sup>5<br></sup>1 <= n1, n2 <= 10<sup>5</sup>

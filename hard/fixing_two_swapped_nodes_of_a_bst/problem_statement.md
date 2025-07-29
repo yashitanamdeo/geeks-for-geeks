@@ -22,7 +22,7 @@ Two of the nodes of a Binary Search Tree (BST) are swapped. Fix (or correct) the
   2   20
 <b>Output: </b>1<b>
 Explanation:
- </b></pre>
+ </b><img src="https://media.geeksforgeeks.org/wp-content/uploads/20190528095934/FixNodes.jpg" alt="" title=""/></pre>
 
 <b>Example 2:</b>
 

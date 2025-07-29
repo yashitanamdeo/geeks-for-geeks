@@ -14,13 +14,13 @@ Given a Directed Graph, find a Mother Vertex in the Graph (<b>if present</b>). 
 
 <b>Examples:</b>
 
-<pre><b>Input:</b><br><br><b>Output: </b>0<br><b>Explanation: </b>According to the given edges, all 
+<pre><b>Input:</b><br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/701116/Web/Other/blobid0_1745298210.jpg" alt="" title="" width="293" height="238"/><br><b>Output: </b>0<br><b>Explanation: </b>According to the given edges, all 
 nodes can be reached from nodes from 0, 1 and 2. 
 But, since 0 is minimum among 0,1 and 2, so 0 
 is the output.</pre>
 
 <pre><b>Input:</b>
-<br><b>Output: </b>-1<br><b>Explanation: </b>According to the given edges, 
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/701116/Web/Other/blobid1_1745298243.jpg" alt="" title="" width="270" height="220"/><br><b>Output: </b>-1<br><b>Explanation: </b>According to the given edges, 
 no vertices are there from where we can 
 reach all vertices. So, output is -1.
 </pre>

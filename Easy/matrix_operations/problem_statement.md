@@ -2,7 +2,7 @@
 
 <p align="center">
   <img alt="Difficulty" title="Difficulty" src="https://custom-icon-badges.demolab.com/badge/Difficulty: Easy-1F222E?style=for-the-badge&logoColor=white&logo=fire"/>
-  <img alt="Accuracy" title="Accuracy" src="https://custom-icon-badges.demolab.com/badge/Accuracy: 63.42%25-1F222E?style=for-the-badge&logoColor=white&logo=target"/>
+  <img alt="Accuracy" title="Accuracy" src="https://custom-icon-badges.demolab.com/badge/Accuracy: 63.46%25-1F222E?style=for-the-badge&logoColor=white&logo=target"/>
   <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 6K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   <img alt="Points" title="Points" src="https://custom-icon-badges.demolab.com/badge/Points: 2-1F222E?style=for-the-badge&logoColor=white&logo=award"/>
   <img alt="Average Time" title="Average Time" src="https://custom-icon-badges.demolab.com/badge/Average%20Time: N/A-1F222E?style=for-the-badge&logoColor=white&logo=clock"/>
@@ -26,9 +26,9 @@ matrix[][] = {{0,1},
 
 <b>Output:</b> (1,1)
 <b>Explanation:</b>
-
-
-
+<img src="https://media.geeksforgeeks.org/img-practice/endpoint1-1622886995.jpg" alt="" title=""/>
+<img src="https://media.geeksforgeeks.org/img-practice/endpoint2-1622887085.jpg" alt="" title=""/>
+<img src="https://media.geeksforgeeks.org/img-practice/endpoint3-1622887174.jpg" alt="" title=""/>
 
 </pre>
 

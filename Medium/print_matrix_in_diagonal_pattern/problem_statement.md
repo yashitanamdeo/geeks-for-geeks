@@ -12,7 +12,7 @@
 
 Given a square matrix <b>mat[][]</b> of <b>n*n</b> size, the task is to determine the <b>diagonal pattern</b> which is a linear arrangement of the elements of the matrix as depicted in the following example:
 
-
+<img src="https://contribute.geeksforgeeks.org/wp-content/uploads/matrix-6.png" alt="" title=""/>
 
 <b>Example 1:</b>
 

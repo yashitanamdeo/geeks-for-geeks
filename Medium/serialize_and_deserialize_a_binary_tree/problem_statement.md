@@ -19,12 +19,12 @@ Serialization is to store a tree in an array so that it can be later restored an
 <b>Examples :</b>
 
 <pre><b>Input: </b>root = [1, 2, 3]
-      
+      <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700281/Web/Other/blobid4_1739345069.png" alt="" title="" width="250" height="203"/>
 <b>Output: </b>[2, 1, 3]
 </pre>
 
 <pre><b>Input:</b> root = [10, 20, 30, 40, 60, N, N]
-      
+      <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700281/Web/Other/blobid5_1739345069.png" alt="" title="" width="248" height="234"/>
 <b>Output: </b>[40, 20, 60, 10, 30]</pre>
 
 <b>Constraints:</b><br>1 <= Number of nodes <= 10<sup>4</sup><br>1 <= Data of a node <= 10<sup>9</sup>

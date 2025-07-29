@@ -15,11 +15,11 @@ Given a linked list and a number <b>k</b>. You have to reverse the first part of
 <b>Examples:</b>
 
 <pre><b>Input: Linked list: </b>1 -> 2 -> 3 -> 4 -> 5,  k = 2<b>
-Output: </b>2 -> 1 -> 5 -> 4 -> 3<br><b>
+Output: </b>2 -> 1 -> 5 -> 4 -> 3<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/713973/Web/Other/blobid0_1723141555.png" alt="" title="" width="400" height="130"/><b>
 Explanation: </b>As k = 2 , so the first part 2 nodes: 1 -> 2 and the second part with 3 nodes: 3 -> 4 -> 5. Now after reversing the first part: 2 -> 1 and the second part: 5 -> 4 -> 3. So the output is: 2 -> 1 -> 5 -> 4 -> 3</pre>
 
 <pre><b>Input: Linked list: </b>1 -> 2 -> 4 -> 3,  k = 3
-<b>Output: </b>4 -> 2 -> 1 -> 3<br><br><b>Explanation: </b>As k = 3 , so the first part 3 nodes: 4 -> 2 -> 1 and the second part with 1 nodes: 3. Now after reversing the first part: 1 -> 2 -> 4 and the second part: 3. So the output is: 1 -> 2 -> 4 -> 3
+<b>Output: </b>4 -> 2 -> 1 -> 3<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/713973/Web/Other/blobid1_1723141562.png" alt="" title="" width="400" height="130"/><br><b>Explanation: </b>As k = 3 , so the first part 3 nodes: 4 -> 2 -> 1 and the second part with 1 nodes: 3. Now after reversing the first part: 1 -> 2 -> 4 and the second part: 3. So the output is: 1 -> 2 -> 4 -> 3
 </pre>
 
 <b>Expected Time Complexity: </b>O(n)<b><br>Expected Space Complexity: </b>O(1)

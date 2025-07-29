@@ -3,14 +3,14 @@
 <p align="center">
   <img alt="Difficulty" title="Difficulty" src="https://custom-icon-badges.demolab.com/badge/Difficulty: Easy-1F222E?style=for-the-badge&logoColor=white&logo=fire"/>
   <img alt="Accuracy" title="Accuracy" src="https://custom-icon-badges.demolab.com/badge/Accuracy: 40.43%25-1F222E?style=for-the-badge&logoColor=white&logo=target"/>
-  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 301K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 304K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   <img alt="Points" title="Points" src="https://custom-icon-badges.demolab.com/badge/Points: 2-1F222E?style=for-the-badge&logoColor=white&logo=award"/>
   <img alt="Average Time" title="Average Time" src="https://custom-icon-badges.demolab.com/badge/Average%20Time: 30m-1F222E?style=for-the-badge&logoColor=white&logo=clock"/>
 </p>
 
 ## Problem Statement
 
-Given a string <b>s</b> consisting of <b>lowercase </b>English<b> </b>Letters. Return the first non-repeating character in <b>s</b>. <br>If there is no non-repeating character, return <b>'$'.</b><br>Note:<b> </b>When you return '$' driver code will output <b>-1</b>.
+Given a string <b>s</b> consisting of <b>lowercase </b>English<b> </b>Letters. Return the first non-repeating character in <b>s</b>.If there is no non-repeating character, return <b>'$'.</b><br>Note:<b> </b>When you return '$' driver code will output <b>-1</b>.
 
 <b>Examples:</b>
 

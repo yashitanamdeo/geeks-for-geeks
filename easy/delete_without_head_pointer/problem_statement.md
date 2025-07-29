@@ -25,11 +25,11 @@ By deleting the node value, we do not mean removing it from memory. We mean:
 
 <pre><b>Input: </b>Linked List = 1 -> 2, del_node = 1
 <b>Output: </b>2<b>
-Explanation: </b>After deleting 1 from the linked list, we have remaining nodes as 2.<br> </pre>
+Explanation: </b>After deleting 1 from the linked list, we have remaining nodes as 2.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700161/Web/Other/blobid0_1724435615.png" alt="" title="" width="398" height="159"/> </pre>
 
 <pre><b>Input: </b>Linked List = 10 -> 20 -> 4 -> 30, del_node = 20
 <b>Output: </b>10->4->30<b>
-Explanation: </b>After deleting 20 from the linked list, we have remaining nodes as 10, 4, 30.<br><br></pre>
+Explanation: </b>After deleting 20 from the linked list, we have remaining nodes as 10, 4, 30.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700161/Web/Other/blobid1_1724435635.png" alt="" title="" width="390" height="156"/><br></pre>
 
 <b>Constraints:</b><br>2 <= number of nodes <= 10<sup>6 </sup> <br>1 <= node->data <= 10<sup>6</sup><br>
 

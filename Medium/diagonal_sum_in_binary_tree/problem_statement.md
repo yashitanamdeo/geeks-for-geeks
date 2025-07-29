@@ -14,7 +14,7 @@ Consider Red lines of slope -1 passing between nodes (in the following diagram).
 
 For the following input tree, the output should be 9, 19, 42.<br>9 is the sum of 1, 3, and 5.<br>19 is the sum of 2, 6, 4, and 7.<br>42 is the sum of 9, 10, 11, and 12.
 
-[](https://media.geeksforgeeks.org/wp-content/uploads/diagonal-sum-in-a-tree.jpg)
+[<img src="https://media.geeksforgeeks.org/wp-content/uploads/diagonal-sum-in-a-tree.jpg" alt="DiagonalSum" title=""/>](https://media.geeksforgeeks.org/wp-content/uploads/diagonal-sum-in-a-tree.jpg)
 
 <b>Example 1:</b>
 

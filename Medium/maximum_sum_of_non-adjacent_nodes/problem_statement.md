@@ -14,13 +14,13 @@ Given a <b>binary tree</b> with a value associated with each node. Your task is 
 
 <b>Examples:</b>
 
-<pre><b>Input:</b> root[] = [11, 1, 2]<b><br></b>
+<pre><b>Input:</b> root[] = [11, 1, 2]<b><br></b><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/880845/Web/Other/blobid0_1732598044.png" alt="" title="" width="280" height="248"/>
 <b>Output: </b>11<b>
-Explanation: </b>The maximum sum is obtained by selecting the node 11.<br></pre>
+Explanation: </b>The maximum sum is obtained by selecting the node 11.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/880845/Web/Other/blobid1_1732598102.png" alt="" title="" width="280" height="245"/></pre>
 
 <pre><b>Input:</b> root[] = [1, 2, 3, 4, N, 5, 6]
-<br><b>Output: </b>16<b>
-Explanation: </b>The maximum sum is obtained by selecting the nodes 1, 4, 5, and 6, which are not directly connected to each other. Their total sum is 16.  <br><br></pre>
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/880845/Web/Other/blobid2_1732598208.png" alt="" title="" width="279" height="246"/><br><b>Output: </b>16<b>
+Explanation: </b>The maximum sum is obtained by selecting the nodes 1, 4, 5, and 6, which are not directly connected to each other. Their total sum is 16.  <br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/880845/Web/Other/blobid3_1732598283.png" alt="" title="" width="278" height="245"/><br></pre>
 
 <b>Constraints:</b><br>1 ≤ no. of nodes in the tree ≤ 10<sup>4</sup>
 1 ≤ Node.val ≤ 10<sup>5</sup>

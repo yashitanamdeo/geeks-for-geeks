@@ -17,12 +17,12 @@ Given an <b>undirected graph</b> with <b>no self loops</b> with <b>V (from 0 to 
 <b>Examples</b>
 
 <pre><b>Input: 
-</b><br><b>Output:</b><b> </b>1
+</b><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/701410/Web/Other/blobid0_1745299580.jpg" alt="" title="" width="303" height="268"/><br><b>Output:</b><b> </b>1
 <b>Explanation: </b>There is a cycle between 0->2->4->0
 </pre>
 
 <pre><b>Input: 
-</b><br><b>Output: </b>0
+</b><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/701410/Web/Other/blobid1_1745299616.jpg" alt="" title="" width="307" height="272"/><br><b>Output: </b>0
 <b>Explanation: </b>The graph doesn't contain any cycle
 </pre>
 

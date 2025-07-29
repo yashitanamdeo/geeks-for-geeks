@@ -15,12 +15,12 @@ Given the root of a n-ary tree find the number of duplicate subtrees in the n-
 <b>Examples:</b>
 
 <pre><b>Input: </b>root = [1, N, 2, 2, 3, N, 4, N, 4, 4, 3, N, N N N N]
- <br><b>Output:</b> 2
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/714276/Web/Other/blobid2_1752226335.webp" alt="" title="" width="364" height="242"/> <br><b>Output:</b> 2
 <b>Explanation:</b> [4], [3] are duplicate subtree.
 </pre>
 
 <pre><b>Input: </b>root = [1, N, 2, 3, N, 4, 5, 6, N, N, N, N]
-<br><b>Output: </b>0
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/714276/Web/Other/blobid1_1752225786.webp" alt="" title="" width="285" height="259"/><br><b>Output: </b>0
 <b>Explanation:</b> No duplicate subtree found.
 </pre>
 

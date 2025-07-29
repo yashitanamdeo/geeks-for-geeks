@@ -21,7 +21,7 @@ n = 4, m = 4
 edges = [[0, 1, 3],<br>         [1, 2, 1], <br>         [1, 3, 4],  <br>         [2, 3, 1]]
 distanceThreshold = 4
 <b>Output:<br></b>3
-<b>Explaination:<br><br></b>The neighboring cities at a distanceThreshold = 4 for each city are:
+<b>Explaination:<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/711146/Web/Other/blobid1_1745300064.jpg" alt="" title="" width="278" height="278"/><br></b>The neighboring cities at a distanceThreshold = 4 for each city are:
 City 0 -> [City 1, City 2] 
 City 1 -> [City 0, City 2, City 3] 
 City 2 -> [City 0, City 1, City 3] 
@@ -30,7 +30,7 @@ Cities 0 and 3 have 2 neighboring cities at a distanceThreshold = 4, but we have
 </pre>
 
 <pre><b>Input: </b><br>n = 5, m = 6<br>edges = [[0, 1, 2],
-         [0, 4, 8],<br>         [1, 2, 3], <br>         [1, 4, 2], <br>         [2, 3, 1],<br>         [3, 4, 1]]<br>distanceThreshold = 2.<br><b>Output:<br></b>0<br><b>Explaination:<br></b><br>The neighboring cities at a distanceThreshold = 2 for each city are:
+         [0, 4, 8],<br>         [1, 2, 3], <br>         [1, 4, 2], <br>         [2, 3, 1],<br>         [3, 4, 1]]<br>distanceThreshold = 2.<br><b>Output:<br></b>0<br><b>Explaination:<br></b><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/711146/Web/Other/blobid2_1745300084.jpg" alt="" title="" width="320" height="320"/><br>The neighboring cities at a distanceThreshold = 2 for each city are:
 City 0 -> [City 1] 
 City 1 -> [City 0, City 4] 
 City 2 -> [City 3, City 4] 

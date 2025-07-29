@@ -36,7 +36,7 @@ Explanation: </b>Two different characters 'a' and 'b' in s1 maps with same chara
 <hr>
 
 ### Tags
-- **Topic Tags:** `Strings` `Data Structures`
+- **Topic Tags:** `Strings` `Data Structures` `Hash`
 - **Company Tags:** `Google`
 
 ### Related Articles

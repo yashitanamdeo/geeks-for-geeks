@@ -20,12 +20,12 @@ Given a linked list, you have to perform the following task:
 <b>Examples:</b>
 
 <pre><b>Input: </b>LinkedList: 10->4->9->1->3->5->9->4
-<b>Output: </b>10->9->3->9->4->5->1->4<br><b>
+<b>Output: </b>10->9->3->9->4->5->1->4<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700006/Web/Other/blobid0_1723815304.png" alt="" title="" width="417" height="94"/><b>
 Explanation: </b>Alternative nodes in the given linked list are 4,1,5,4. Reversing the alternative nodes from the given list, and then appending them to the end of the list results in a list 10->9->3->9->4->5->1->4.
 </pre>
 
 <pre><b>Input: </b>LinkedList: 1->2->3->4->5
-<b>Output: </b>1->3->5->4->2 <br><b>
+<b>Output: </b>1->3->5->4->2 <br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700006/Web/Other/blobid1_1723815319.png" alt="" title="" width="417" height="94"/><b>
 Explanation: </b>Alternative nodes in the given linked list are 2 and 4. Reversing the alternative nodes from the given list, and then appending them to the end of the list results in a list of 1->3->5->4->2.</pre>
 
 <b>Expected Time Complexity:</b> O(n)<br><b>Expected Space </b><b>Complexity</b><b>:</b> O(1)

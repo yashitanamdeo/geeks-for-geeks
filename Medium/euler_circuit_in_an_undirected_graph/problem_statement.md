@@ -15,14 +15,14 @@
 <b>Examples</b>
 
 <pre><b>Input: </b>v = 4, edges[][] = [[0, 1], [0, 2], [1, 3], [2, 3]]
- <br><b>Output: </b>1
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700536/Web/Other/blobid0_1745469597.jpg" alt="" title="" width="278" height="246"/> <br><b>Output: </b>1
 <b>Explanation: </b>corresponding adjacency list will be {{1, 2},{0, 3},{0, 3},{1, 2}}<br>One of the Eularian circuit 
 starting from vertex 0 is as follows:
 0->1->3->2->0
 </pre>
 
 <pre><b>Input: </b>v = 3, edges[][] = [[0, 1], [0, 2]]    
-<br><b>Output: </b>0<br><b>Explanation: </b>corresponding adjacency list will be {{1, 2}}<b><br></b>No Eulerian path is found.</pre>
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700536/Web/Other/blobid1_1745469684.jpg" alt="" title="" width="280" height="248"/><br><b>Output: </b>0<br><b>Explanation: </b>corresponding adjacency list will be {{1, 2}}<b><br></b>No Eulerian path is found.</pre>
 
 <b>Your Task:</b><br>You don't need to read or print anything. Your task is to complete the function <b>isEularCircuitExist()</b> which takes <b>v</b> and array of edges <b>adj[]</b> as input parameter and returns boolean value <b>1</b> if Eular circuit exists otherwise returns <b>0</b>.
 

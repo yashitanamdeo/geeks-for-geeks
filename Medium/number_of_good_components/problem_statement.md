@@ -14,11 +14,11 @@ Given an undirected graph with <b>v </b>vertices(numbered from <b>1</b> to <b>v<
 
 <b>Examples</b>
 
-<pre><b>Input:</b> e=3, v=3, edges[][] = [[1, 2], [1, 3], [3, 2]]<br><br><b>Output: </b>1<b>
+<pre><b>Input:</b> e=3, v=3, edges[][] = [[1, 2], [1, 3], [3, 2]]<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/713974/Web/Other/blobid0_1745300373.jpg" alt="" title="" width="277" height="277"/><br><b>Output: </b>1<b>
 Explanation: <br></b>We can see that there is only one component in the graph and in this component there is a edge between any two vertces<b>.</b></pre>
 
 <pre><b>Input:</b>e=5, v=7, edges[][] = [[1, 2] ,[7, 2], [3, 5], [3, 4], [4, 5]]
-<br><b>Output: </b>2
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/713974/Web/Other/blobid1_1745300608.jpg" alt="" title="" width="327" height="327"/><br><b>Output: </b>2
 <b>Explanation: <br></b>We can see that there are 3 components in the graph. For 1-2-7 there is no edge between 1 to 7, so it is not a fully connected component. Rest 2 are individually fully connected component.</pre>
 
 <b>Your Task:</b><br>You don't need to read input or print anything. Your task is to complete the function <b>findNumberOfGoodComponent()</b>, which<b> </b>takes an integer <b>e</b> and <b>v </b>and <b>edges[][] </b>as input parameters and returns an integer denoting the number of good components. 

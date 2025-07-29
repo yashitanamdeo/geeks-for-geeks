@@ -14,27 +14,22 @@ Given a square <b>grid </b>of size <b>N</b>, each cell of which contains an inte
 
 <b>Examples :</b>
 
-<pre><b>Input: </b>grid = {{9,4,9,9},{6,7,6,4},{8,3,3,7},{7,4,9,10}}
+<pre><b>Input: </b>grid = [[9,4,9,9],<br>               [6,7,6,4],<br>               [8,3,3,7],<br>               [7,4,9,10]]
 <b>Output: </b>43
-<b>Explanation: </b>The grid is-
-9 4 9 9
-6 7 6 4
-8 3 3 7
-7 4 9 10
-The minimum cost is-
+<b>Explanation: </b>The minimum cost is-
 9 + 4 + 7 + 3 + 3 + 7 + 10 = 43.
 </pre>
 
-<pre><b>Input: </b>grid = {{4,4},{3,7}}
+<pre><b>Input: </b>grid = [[4,4],<br>               [3,7]]
 <b>Output: </b>14
-<b>Explanation: </b>The grid is-
-4 4
-3 7
-The minimum cost is- 4 + 3 + 7 = 14.
+<b>Explanation: </b>The minimum cost is- 4 + 3 + 7 = 14.
 </pre>
 
-<b>Expected Time Complexity: </b>O(n<sup>2</sup>*log(n))<br><b>Expected Auxiliary Space: </b>O(n<sup>2</sup>) <br> <b>Constraints:</b><br>1 ≤ n ≤ 500<br>1 ≤ cost of cells ≤ 500
+<pre><b>Constraints:</b><br>1 ≤ n ≤ 500<br>1 ≤ cost of cells ≤ 500</pre>
 
+## Expected Complexities
+- Time Complexity: O(n^2*log(n))
+- Auxiliary Space: O(n^2)
 
 <hr>
 

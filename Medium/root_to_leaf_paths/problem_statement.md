@@ -17,16 +17,16 @@ Given a <b>Binary Tree</b>, you need to <b>find all the possible paths</b> from 
 <b>Examples:</b>
 
 <pre><b>Input: </b>root[] = [1, 2, 3, 4, 5, N, N]
-
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20241007105251989873/ex-3.webp" alt="ex-3" title="" width="276" height="245"/>
 <b>Output: </b>[[1, 2, 4], [1, 2, 5], [1, 3]]
 <b>Explanation: </b>All the possible paths from root node to leaf nodes are: 1 -> 2 -> 4, 1 -> 2 -> 5 and 1 -> 3</pre>
 
-<pre><b>Input: </b>root[] = [1, 2, 3]<br><br><b>Output: </b>[[1, 2], [1, 3]] 
+<pre><b>Input: </b>root[] = [1, 2, 3]<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700553/Web/Other/blobid0_1745821559.jpg" alt="" title="" width="244" height="203"/><br><b>Output: </b>[[1, 2], [1, 3]] 
 <b>Explanation: </b>All the possible paths from root node to leaf nodes are: 1 -> 2 and 1 -> 3
 </pre>
 
 <pre><b>Input:</b> root[] = [10, 20, 30, 40, 60, N, N]
-<b><br>Output: </b>[[10, 20, 40], [10, 20, 60], [10, 30]]<br><b>Explanation: </b>All the possible paths from root node to leaf nodes are: 10 -> 20 -> 40, 10 -> 20 -> 60 and 10 -> 30</pre>
+<b><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700553/Web/Other/blobid1_1745821586.jpg" alt="" title="" width="249" height="265"/><br>Output: </b>[[10, 20, 40], [10, 20, 60], [10, 30]]<br><b>Explanation: </b>All the possible paths from root node to leaf nodes are: 10 -> 20 -> 40, 10 -> 20 -> 60 and 10 -> 30</pre>
 
 <b>Constraints:</b><br>1 <= number of nodes <= 10<sup>4<br></sup>1 <= node->data <= 10<sup>4</sup><sup><br></sup>
 

@@ -17,7 +17,7 @@ You are given a <b>root</b> node of a binary Tree and each node of the binary tr
 <b>Example 1:</b>
 
 <pre><b>Input:</b>
-
+<img src="https://media.geeksforgeeks.org/img-practice/1_page-0001-1664728043.jpg" alt="" title=""/>
 <b>k=2</b>
 <b>Output</b>: 4
 <b>Explanation:</b>
@@ -26,7 +26,7 @@ We can see all leaves <b>3,4,5</b> form good subtrees as number of distinct valu
 <b>Example 2:</b>
 
 <pre><b>Input:</b>
-
+<img src="https://media.geeksforgeeks.org/img-practice/2_page-0001-1664728091.jpg" alt="" title=""/>
 k=1
 <b>Output: </b>4
 <b>Explanation:</b>

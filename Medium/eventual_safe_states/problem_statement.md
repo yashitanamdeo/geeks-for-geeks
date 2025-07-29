@@ -19,7 +19,7 @@ You have to return an array containing all the <b>safe nodes</b> of the graph. T
 <b>Examples</b>
 
 <pre><b>Input:</b>
-<br><b>Output: </b>2 4 5 6
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/711095/Web/Other/blobid0_1745299307.jpg" alt="" title="" width="355" height="314"/><br><b>Output: </b>2 4 5 6
 <b>Explanation:</b>
 The given graph is shown above.
 Nodes 5 and 6 are terminal nodes as there are no 
@@ -29,7 +29,7 @@ lead to either node 5 or 6.
 </pre>
 
 <pre><b>Input:</b>
-<br><b>Output: </b>3
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/711095/Web/Other/blobid1_1745299371.jpg" alt="" title="" width="361" height="237"/><br><b>Output: </b>3
 <b>Explanation:</b>
 Only node 3 is a terminal node, and every path 
 starting at node 3 leads to node 3.

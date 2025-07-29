@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Difficulty" title="Difficulty" src="https://custom-icon-badges.demolab.com/badge/Difficulty: Medium-1F222E?style=for-the-badge&logoColor=white&logo=fire"/>
   <img alt="Accuracy" title="Accuracy" src="https://custom-icon-badges.demolab.com/badge/Accuracy: 58.65%25-1F222E?style=for-the-badge&logoColor=white&logo=target"/>
-  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 61K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 62K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   <img alt="Points" title="Points" src="https://custom-icon-badges.demolab.com/badge/Points: 4-1F222E?style=for-the-badge&logoColor=white&logo=award"/>
   <img alt="Average Time" title="Average Time" src="https://custom-icon-badges.demolab.com/badge/Average%20Time: 20m-1F222E?style=for-the-badge&logoColor=white&logo=clock"/>
 </p>
@@ -15,10 +15,10 @@ Given two linked lists (L1 & L2), your task is to complete the function <b>makeU
 <b>Examples:</b>
 
 <pre><b>Input: </b>L1 = 9->6->4->2->3->8, L2 = 1->2->8->6->2
-<b>Output: </b>1 -> 2 -> 3 -> 4 -> 6 -> 8 -> 9<br><br><b>Explanation:</b> All the distinct numbers from two lists, when sorted form the list in the output. </pre>
+<b>Output: </b>1 -> 2 -> 3 -> 4 -> 6 -> 8 -> 9<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700534/Web/Other/blobid0_1723400421.png" alt="" title="" width="371" height="175"/><br><b>Explanation:</b> All the distinct numbers from two lists, when sorted form the list in the output. </pre>
 
 <pre><b>Input: </b>L1 = 1->5->1->2->2->5, L2 = 4->5->6->7->1
-<b>Output: </b>1 -> 2 -> 4 -> 5 -> 6 -> 7<br><br><b>Explaination:</b> All the distinct numbers from two lists, when sorted forms the list in the output.</pre>
+<b>Output: </b>1 -> 2 -> 4 -> 5 -> 6 -> 7<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700534/Web/Other/blobid2_1723400444.png" alt="" title="" width="364" height="172"/><br><b>Explaination:</b> All the distinct numbers from two lists, when sorted forms the list in the output.</pre>
 
 <b>Expected Time Complexity:</b> O((n+m)*Log(n+m))<br><b>Expected Space </b><b>Complexity</b><b>:</b> O(n+m)
 

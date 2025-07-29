@@ -22,7 +22,7 @@ Explanation: </b>Here k = 1, hence after swapping the 1st node from the beginnin
 
 <pre><b>Input: </b>LinkedList: 1->2->3->4->5, k = 7
 <b>Output: </b>true<b>
-Explanation: </b>k > n. Swapping is invalid. Return the head node as it is.<br> </pre>
+Explanation: </b>k > n. Swapping is invalid. Return the head node as it is.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/701070/Web/Other/blobid1_1722511116.png" alt="" title="" width="395" height="138"/> </pre>
 
 <b>Expected Time Complexity</b>: O(n)<br><b>Expected Auxillary Space:</b> O(1)
 

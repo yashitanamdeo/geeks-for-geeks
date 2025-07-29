@@ -17,14 +17,14 @@ Given a <b>root</b> of a Binary Search Tree, modify and return the given BST suc
 <b>Examples:</b>
 
 <pre><b>Input: </b>root[] = [30, 20, N, 10, N]
-     <br><b>Output: </b>2
-     <br><b>Explanation:</b> The above unbalanced BST is converted to balanced with the minimum possible height i.e. 2.
+     <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700630/Web/Other/blobid0_1739346405.png" alt="" title="" width="270" height="242"/><br><b>Output: </b>2
+     <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700630/Web/Other/blobid1_1739346405.png" alt="" title="" width="270" height="204"/><br><b>Explanation:</b> The above unbalanced BST is converted to balanced with the minimum possible height i.e. 2.
 </pre>
 
 <pre><b>Input: </b>root[] = [4, 3, 5, 2, N, N, 6, 1, N, N, 7]
-     
+     <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/888005/Web/Other/blobid0_1739474366.png" alt="" title="" width="277" height="249"/>
 <b>Output: </b>3
-     <br><b>Explanation:</b> The above unbalanced BST is converted to balanced with the minimum possible height i.e. 3.</pre>
+     <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/888005/Web/Other/blobid1_1739474366.png" alt="" title="" width="274" height="242"/><br><b>Explanation:</b> The above unbalanced BST is converted to balanced with the minimum possible height i.e. 3.</pre>
 
 <b>Constraints:</b><br>1 <= Number of Nodes <= 10<sup>5</sup><br>1 <= Node -> data <= 10<sup>9</sup>
 

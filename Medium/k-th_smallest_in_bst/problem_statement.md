@@ -15,18 +15,18 @@ Given a BST and an integer <b>k, </b>the task is to find the <b>kth</b> smallest
 <b>Examples:</b>
 
 <pre><b>Input:</b> root = [2, 1, 3], k = 2
-    
+    <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700236/Web/Other/blobid1_1738413633.png" alt="" title="" width="269" height="217"/>
 <b>Output: </b>2
 <b>Explanation:</b> 2 is the 2nd smallest element in the BST.
 </pre>
 
 <pre><b>Input:</b> root = [2, 1, 3], k = 5
-    
+    <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700236/Web/Other/blobid1_1738413633.png" alt="" title="" width="274" height="221"/>
 <b>Output: </b>-1
 <b>Explanation:</b> There is no 5th smallest element in the BST as the size of BST is 3.
 </pre>
 
-<pre><b>Input:</b> root = [20, 8, 22, 4, 12, N, N, N, N, 10, 14], k = 3<br>     <br><b>Output: </b>10
+<pre><b>Input:</b> root = [20, 8, 22, 4, 12, N, N, N, N, 10, 14], k = 3<br>    <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700498/Web/Other/blobid1_1736918049.jpg" alt="" title="" width="270" height="241"/> <br><b>Output: </b>10
 <b>Explanation:</b> 10 is the 3rd smallest element in the BST.</pre>
 
 <b>Constraints:</b><br>

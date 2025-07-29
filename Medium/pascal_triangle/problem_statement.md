@@ -12,7 +12,7 @@
 
 Given a positive integer <b>n</b>, return the <b>n<sup>th</sup> row of [<i>pascal's triangle</i>](https://en.wikipedia.org/wiki/Pascal%27s_triangle)</b>.<br>Pascal's triangle is a triangular array of the binomial coefficients formed by summing up the elements of previous row.<br>
 
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif" alt="File:PascalTriangleAnimated2.gif" title=""/>
 
 <b>Examples:</b>
 

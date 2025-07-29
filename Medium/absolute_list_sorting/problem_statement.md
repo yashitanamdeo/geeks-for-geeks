@@ -15,10 +15,10 @@ Given a linked list, sorted in ascending order based on the <b>absolute values</
 <b>Examples</b>: <b> </b>
 
 <pre><b>Input</b>:  Linked List: 1 -> -2 -> -3 -> 4 -> -5
-<b>Output</b>: -5 -> -3 -> -2 -> 1 -> 4<br><br><b>Explanation: </b>Actual sorted order of {1, -2, -3, 4, -5} is {-5, -3, -2, 1, 4}</pre>
+<b>Output</b>: -5 -> -3 -> -2 -> 1 -> 4<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700234/Web/Other/blobid0_1723006347.png" alt="" title="" width="400" height="140"/><br><b>Explanation: </b>Actual sorted order of {1, -2, -3, 4, -5} is {-5, -3, -2, 1, 4}</pre>
 
 <pre><b>Input</b>: Linked List: 5 -> -10
-<b>Output</b>: -10 -> 5<br><br><b>Explanation: </b>Actual sorted order of {5, -10} is {-10, 5}
+<b>Output</b>: -10 -> 5<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700234/Web/Other/blobid1_1723006449.png" alt="" title="" width="400" height="140"/><br><b>Explanation: </b>Actual sorted order of {5, -10} is {-10, 5}
 </pre>
 
 <b>Expected Time Complexity: </b>O(n)<br><b>Expected Space Complexity: </b>O(1)<br><br><b>Constraints</b><br>1 ≤  size of linked list<b>  </b>≤ 10^5<br>-10^5 ≤  node.data<b> </b>≤ 10^5

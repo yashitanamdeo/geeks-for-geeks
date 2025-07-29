@@ -14,11 +14,11 @@ Given a binary tree of size  <b>n</b>, a <b>node,</b> and a positive integer <
 
 <b>Examples :</b>
 
-<pre><b>Input: </b>k = 2, node = 4<br><br><b>Output:</b> 1
+<pre><b>Input: </b>k = 2, node = 4<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700682/Web/Other/blobid0_1745302099.jpg" alt="" title="" width="268" height="237"/><br><b>Output:</b> 1
 <b>Explanation:</b>
 Since, k is 2 and node is 4, so we first need to locate the node and look k times its ancestors. Here in this Case node 4 has 1 as his 2nd Ancestor aka the root of the tree.</pre>
 
-<pre><b>Input: </b>k=1, node=3    <br>
+<pre><b>Input: </b>k=1, node=3    <br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700682/Web/Other/blobid1_1745302119.jpg" alt="" title="" width="271" height="240"/>
 <b>Output: </b>1
 <b>Explanation: </b>k=1 and node=3 ,kth ancestor of node 3 is 1.</pre>
 

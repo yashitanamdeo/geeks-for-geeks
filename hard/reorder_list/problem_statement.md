@@ -18,7 +18,7 @@ Given a singly linked list<i>: </i>A<sub>0 </sub>→A<sub>1</sub> →...→A<sub
 
 <pre><b>Input: </b>LinkedList: 1->2->3
 <b>Output: </b>1->3->2
-<b>Explanation: </b>Here n=3, so the correct order is<i> </i>A<sub>0 </sub>→ A<sub>2</sub> → A<sub>1</sub><i><br></i></pre>
+<b>Explanation: </b>Here n=3, so the correct order is<i> </i>A<sub>0 </sub>→ A<sub>2</sub> → A<sub>1</sub><i><br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700138/Web/Other/blobid0_1722946913.png" alt="" title="" width="386" height="182"/></i></pre>
 
 <pre><b>Input: </b>LinkedList: 1->7->3->4
 <b>Output: </b>1->4->7->3

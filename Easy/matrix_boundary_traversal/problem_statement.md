@@ -10,7 +10,7 @@
 
 ## Problem Statement
 
-You are given a matrix <b>mat</b>. The task is to perform boundary traversal on the matrix in a clockwise manner starting from the first row of the matrix. <br><br><b>Examples:</b>
+You are given a matrix <b>mat[][] </b>. Return the boundary traversal on the matrix in a clockwise manner starting from the first row of the matrix. <br><br><b>Examples:</b>
 
 <pre><b>Input</b>: mat[][] = [[1, 2, 3, 4],[5, 6, 7, 8],[9, 10, 11, 12],[13, 14, 15,16]]
 <b>Output</b>: [1, 2, 3, 4, 8, 12, 16, 15, 14, 13, 9, 5]
@@ -20,10 +20,9 @@ You are given a matrix <b>mat</b>. The task is to perform boundary traversal on 
 <pre><b>Input</b>:mat[][] = [[12, 11, 10, 9],[8, 7, 6, 5],[4, 3, 2, 1]]
 <b>Output</b>: [12, 11, 10, 9, 5, 1, 2, 3, 4, 8]<br><b>Explanation</b>: The boundary traversal is: [12, 11, 10, 9, 5, 1, 2, 3, 4, 8]</pre>
 
-<pre><b>Input</b>:mat[][] = [[12, 11],[4, 3]]
-<b>Output</b>: [12, 11, 3, 4]<br><b>Explanation</b>: The boundary traversal is: [12, 11, 3, 4]</pre>
+<pre><b>Input</b>:mat[][] = [[12, 11],[4, 3]] <br><b>Output</b>: [12, 11, 3, 4]<br><b>Explanation</b>: The boundary traversal is: [12, 11, 3, 4]<br></pre>
 
-<pre><b>Constraints:</b><br>1 <= mat.size()<= 1000<br>1 <= mat[0].size()<= 1000<br>0 <= mat[i][j] <= 1000</pre>
+<b>Constraints:</b><br>1 ≤ mat.size()≤ 1000<br>1 ≤ mat[0].size() ≤ 1000<br>0 ≤ mat[i][j] ≤ 1000
 
 ## Expected Complexities
 - Time Complexity: O(n)

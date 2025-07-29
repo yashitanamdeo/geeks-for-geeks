@@ -17,7 +17,7 @@ Your task is to calculate the sum of the Number of Dependencies (NoD) for all no
 <b>Examples:</b>
 
 <pre><b>Input:</b> V<b> </b>= 4, E<b> </b>= 4, edges[][] = [[0,2],[0,3],[1,3],[2,3]]
-
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/705732/Web/Other/blobid0_1733466066.png" alt="" title="" width="322" height="285"/>
 <b>Output: </b>4
 <b>Explanation: </b>For the graph in diagram, A depends on C and D i.e. A's NoD is 2, B depends on D i.e. B's NoD is 1, C depends on D i.e. D's NoD is 1 and D depends on none. Hence answer is 2 + 1 + 1 + 0 = 4.</pre>
 

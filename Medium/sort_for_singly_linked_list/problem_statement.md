@@ -15,10 +15,10 @@
 <b>Examples:</b>
 
 <pre><b>Input: </b>head: 30->23->28->30->11->14->19->16->21->25 
-<b>Output: </b>11->14->16->19->21->23->25->28->30->30<b> <br></b><b>Explanation: </b>The resultant linked list is sorted.<br><br></pre>
+<b>Output: </b>11->14->16->19->21->23->25->28->30->30<b> <br></b><b>Explanation: </b>The resultant linked list is sorted.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/706394/Web/Other/blobid0_1722321362.png" alt="" title="" width="394" height="69"/><br></pre>
 
 <pre><b>Input: </b>head: 19->20->16->24->12->29->30 
-<b>Output: </b>12->16->19->20->24->29->30<br><b>Explanation: </b>The resultant linked list is sorted.<br></pre>
+<b>Output: </b>12->16->19->20->24->29->30<br><b>Explanation: </b>The resultant linked list is sorted.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/706394/Web/Other/blobid1_1722321370.png" alt="" title="" width="394" height="69"/></pre>
 
 <b>Constraints:</b>
 0 ≤ number of nodes ≤ 10<sup>3</sup>

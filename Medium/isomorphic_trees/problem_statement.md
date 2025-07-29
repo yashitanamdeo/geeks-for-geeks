@@ -12,12 +12,12 @@
 
 Given two Binary Trees. Check whether they are Isomorphic or not.
 
-<b>Note: </b><br>Two trees are called isomorphic if one can be obtained from another by a series of flips, i.e. by swapping left and right children of several nodes. Any number of nodes at any level can have their children swapped. Two empty trees are isomorphic.<br>For example, the following two trees are isomorphic with the following sub-trees flipped: 2 and 3, NULL and 6, 7 and 8.<br>[](https://media.geeksforgeeks.org/wp-content/cdn-uploads/ISomorphicTrees-e1368593305854.png)
+<b>Note: </b><br>Two trees are called isomorphic if one can be obtained from another by a series of flips, i.e. by swapping left and right children of several nodes. Any number of nodes at any level can have their children swapped. Two empty trees are isomorphic.<br>For example, the following two trees are isomorphic with the following sub-trees flipped: 2 and 3, NULL and 6, 7 and 8.<br>[<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/ISomorphicTrees-e1368593305854.png" alt="ISomorphicTrees" title="" width="397" height="163"/>](https://media.geeksforgeeks.org/wp-content/cdn-uploads/ISomorphicTrees-e1368593305854.png)
 
 <b>Examples:</b>
 
 <pre><b>Input: </b>root1[] = [1, 2, 3, 4, 5, 7, 6, N, 7, 8], root2[] = [1, 3, 2, N, 6, 4, 5, 8, 7]<b><br></b>
-<a href="https://media.geeksforgeeks.org/wp-content/cdn-uploads/ISomorphicTrees-e1368593305854.png"></a><b>
+<a href="https://media.geeksforgeeks.org/wp-content/cdn-uploads/ISomorphicTrees-e1368593305854.png"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/ISomorphicTrees-e1368593305854.png" alt="ISomorphicTrees" title="" width="397" height="163"/></a><b>
 Output: </b>true</pre>
 
 <pre><b>Input:</b> root1[] = [1, 2, 3, 4], root2[] = [1, 3, 2, 4]<br>     1            1  <br>    / \          /    \  <br>  2    3      3       2  <br> /           /  <br>4<b>          </b>4<b><br>Output: </b>false</pre>

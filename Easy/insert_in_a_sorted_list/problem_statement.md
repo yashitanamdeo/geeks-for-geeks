@@ -15,10 +15,10 @@ Given a linked list sorted in ascending order and an integer called <b>key</b>, 
 <b>Examples:</b>
 
 <pre><b>Input: </b>LinkedList: 25->36->47->58->69->80, key: 19
-<b>Output: </b>19->25->36->47->58->69->80<br><br><b>Explanation: </b>After inserting 19 the sorted linked list will look like the one in the output.</pre>
+<b>Output: </b>19->25->36->47->58->69->80<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700540/Web/Other/blobid0_1723796672.png" alt="" title="" height="100"/><br><b>Explanation: </b>After inserting 19 the sorted linked list will look like the one in the output.</pre>
 
 <pre><b>Input: </b>LinkedList: 50->100, key: 75
-<b>Output: </b>50->75->100<br><br><b>Explanation: </b>After inserting 75 the sorted linked list will look like the one in the output.</pre>
+<b>Output: </b>50->75->100<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700540/Web/Other/blobid1_1723796680.png" alt="" title="" height="100"/><br><b>Explanation: </b>After inserting 75 the sorted linked list will look like the one in the output.</pre>
 
 <b>Constraints:</b><br>1 <= size of linked list <= 10<sup>6</sup><br>1 <= data of nodes <= 10<sup>6</sup>
 

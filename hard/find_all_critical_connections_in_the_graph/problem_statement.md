@@ -17,14 +17,14 @@ Note: Return the connections in sorted order.
 <b>Examples:</b>
 
 <pre><b>Input:</b>
-<br><b>Output: </b>
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/706303/Web/Other/blobid0_1745300798.jpg" alt="" title="" width="309" height="309"/><br><b>Output: </b>
 0 1
 0 2
 <b>Explanation</b>: 
 On removing edge (0, 1), you will not be able to reach node 0 and 2 from node 1. Also, on removing edge (0, 2), you will not be able to reach node 0<br>and 1 from node 2.</pre>
 
 <pre><b>Input:</b>
-<br><b>Output:</b>
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/706303/Web/Other/blobid1_1745300819.jpg" alt="" title="" width="305" height="305"/><br><b>Output:</b>
 2 3
 <b>Explanation</b>:
 The edge between nodes 2 and 3 is the only Critical connection in the given graph.

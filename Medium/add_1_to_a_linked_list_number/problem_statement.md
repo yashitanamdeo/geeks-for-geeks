@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Difficulty" title="Difficulty" src="https://custom-icon-badges.demolab.com/badge/Difficulty: Medium-1F222E?style=for-the-badge&logoColor=white&logo=fire"/>
   <img alt="Accuracy" title="Accuracy" src="https://custom-icon-badges.demolab.com/badge/Accuracy: 31.91%25-1F222E?style=for-the-badge&logoColor=white&logo=target"/>
-  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 324K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 326K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   <img alt="Points" title="Points" src="https://custom-icon-badges.demolab.com/badge/Points: 4-1F222E?style=for-the-badge&logoColor=white&logo=award"/>
   <img alt="Average Time" title="Average Time" src="https://custom-icon-badges.demolab.com/badge/Average%20Time: 20m-1F222E?style=for-the-badge&logoColor=white&logo=clock"/>
 </p>
@@ -17,11 +17,11 @@ You are given a linked list where each element in the list is a node and have an
 <b>Examples :</b>
 
 <pre><b>Input: </b>LinkedList: 4->5->6
-<b>Output: </b>457<br><br><b>Explanation:</b> 4->5->6 represents 456 and when 1 is added it becomes 457. 
+<b>Output: </b>457<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700053/Web/Other/blobid0_1722278845.png" alt="" title="" width="400" height="225"/><br><b>Explanation:</b> 4->5->6 represents 456 and when 1 is added it becomes 457. 
 </pre>
 
 <pre><b>Input: </b>LinkedList: 1->2->3
-<b>Output: </b>124<br> <br><b>Explanation:</b>  1->2->3 represents 123 and when 1 is added it becomes 124. </pre>
+<b>Output: </b>124<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700053/Web/Other/blobid1_1722278908.png" alt="" title="" width="400" height="225"/> <br><b>Explanation:</b>  1->2->3 represents 123 and when 1 is added it becomes 124. </pre>
 
 <b>Expected Time Complexity: </b>O(n)<br><b>Expected Auxiliary Space: </b>O(1)
 

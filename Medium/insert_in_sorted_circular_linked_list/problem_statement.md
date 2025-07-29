@@ -15,10 +15,10 @@ Given a sorted circular<b> linked list</b>, the task is to <b>insert </b>a new n
 <b>Examples:</b>
 
 <pre><b>Input: </b>head = 1->2->4, data = 2
-<b>Output: </b>1->2->2->4<b><br></b><b>Explanation: </b>We can add 2 after the second node.<br><br></pre>
+<b>Output: </b>1->2->2->4<b><br></b><b>Explanation: </b>We can add 2 after the second node.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700127/Web/Other/blobid0_1724411599.png" alt="" title="" width="397" height="206"/><br></pre>
 
 <pre><b>Input: </b>head = 1->4->7->9, data = 5
-<b>Output: </b>1->4->5->7->9<b><br></b><b>Explanation: </b>We can add 5 after the second node.<br></pre>
+<b>Output: </b>1->4->5->7->9<b><br></b><b>Explanation: </b>We can add 5 after the second node.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700127/Web/Other/blobid1_1724411615.png" alt="" title="" width="433" height="224"/></pre>
 
 <b>Constraints:</b><br>2 <= number of nodes <= 10<sup>6</sup><br>0 <= node->data <= 10<sup>6</sup><br>0 <= data <= 10<sup>6</sup><br>
 

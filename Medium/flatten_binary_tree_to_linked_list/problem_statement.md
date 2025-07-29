@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Difficulty" title="Difficulty" src="https://custom-icon-badges.demolab.com/badge/Difficulty: Medium-1F222E?style=for-the-badge&logoColor=white&logo=fire"/>
   <img alt="Accuracy" title="Accuracy" src="https://custom-icon-badges.demolab.com/badge/Accuracy: 75.82%25-1F222E?style=for-the-badge&logoColor=white&logo=target"/>
-  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 44K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 45K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   <img alt="Points" title="Points" src="https://custom-icon-badges.demolab.com/badge/Points: 4-1F222E?style=for-the-badge&logoColor=white&logo=award"/>
   <img alt="Average Time" title="Average Time" src="https://custom-icon-badges.demolab.com/badge/Average%20Time: N/A-1F222E?style=for-the-badge&logoColor=white&logo=clock"/>
 </p>
@@ -21,7 +21,7 @@ Given the root of a binary tree, flatten the tree into a "Linked list":
         /   \
        2     5
       / \     \
-     3   4     6<br><b>Output : </b>1 2 3 4 5 6 <br> <br><b>Explanation: </b>After flattening, the tree looks like this - <br>     1
+     3   4     6<br><b>Output : </b>1 2 3 4 5 6 <br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/706436/Web/Other/blobid0_1722839451.png" alt="" title="" height="100"/> <br><b>Explanation: </b>After flattening, the tree looks like this - <br>     1
       \
        2
         \

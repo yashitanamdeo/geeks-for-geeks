@@ -12,7 +12,7 @@
 
 Given a <b>triangular pyramid</b> with its vertices marked as <b>O, A, B and C</b> and a number <b>N</b>, the task is to find the number of ways such that a person starting from the origin <b>O</b> initially, reaches back to the origin in <b>N</b> steps. In a single step, a person can go to any of its adjacent vertices.
 
-
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20200520133822/pyramid1.jpg" alt="Lightbox" title=""/>
 
 <br>
 <b>Example 1:</b>

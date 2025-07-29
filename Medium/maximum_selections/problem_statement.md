@@ -2,7 +2,7 @@
 
 <p align="center">
   <img alt="Difficulty" title="Difficulty" src="https://custom-icon-badges.demolab.com/badge/Difficulty: Medium-1F222E?style=for-the-badge&logoColor=white&logo=fire"/>
-  <img alt="Accuracy" title="Accuracy" src="https://custom-icon-badges.demolab.com/badge/Accuracy: 69.5%25-1F222E?style=for-the-badge&logoColor=white&logo=target"/>
+  <img alt="Accuracy" title="Accuracy" src="https://custom-icon-badges.demolab.com/badge/Accuracy: 69.52%25-1F222E?style=for-the-badge&logoColor=white&logo=target"/>
   <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 5K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   <img alt="Points" title="Points" src="https://custom-icon-badges.demolab.com/badge/Points: 4-1F222E?style=for-the-badge&logoColor=white&logo=award"/>
   <img alt="Average Time" title="Average Time" src="https://custom-icon-badges.demolab.com/badge/Average%20Time: N/A-1F222E?style=for-the-badge&logoColor=white&logo=clock"/>
@@ -34,7 +34,7 @@ Bundles =
 2
 
 <b>Explanation: 
-</b>
+<img src="https://media.geeksforgeeks.org/img-practice/ScreenShot2022-04-01at4-1648812950.png" alt="" title=""/></b>
 We can select 2 bundles at max while 
 staying true to the condition. For this, 
 we can pick the ranges (2,3) and (3,5) 
@@ -57,7 +57,7 @@ Bundles =
 3
 
 <b>Explanation: 
-</b>
+<img src="https://media.geeksforgeeks.org/img-practice/ScreenShot2022-04-01at4-1648813138.png" alt="" title=""/></b>
 We can pick the ranges (1,3), 
 (7,9) and (10,11) without any overlap.</pre>
 

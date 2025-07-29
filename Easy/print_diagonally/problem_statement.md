@@ -21,7 +21,7 @@ A = [[1, 2],
 <b>Output:</b>
 1 2 3 4
 <b>Explanation:</b> 
-
+<img src="https://media.geeksforgeeks.org/img-practice/ScreenShot2022-10-17at9-1665980852.png" alt="" title=""/>
 Hence, elements will be returned in the 
 order {1, 2, 3, 4}.
 </pre>
@@ -36,7 +36,7 @@ A = [[1, 2, 3],
 <b>Output:</b> 
 1 2 4 3 5 7 6 8 9
 <b>Explanation:</b> 
-
+<img src="https://media.geeksforgeeks.org/img-practice/ScreenShot2022-10-17at9-1665980941.png" alt="" title=""/>
 Hence, elements will be returned in 
 the order {1, 2, 4, 3, 5, 7, 6, 8, 9}.
 

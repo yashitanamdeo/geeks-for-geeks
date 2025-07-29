@@ -29,7 +29,7 @@ to visit 4 from 2 takes cost 2,
 2->3->4
 So if Alex wants to visit city 4
 from 2, he needs 2 units of money
-  </pre>
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/711152/Web/Other/blobid0_1750669077.webp" alt="" title="" width="245" height="275"/>  </pre>
 
 <pre><b>Input:</b>
 n: 4 
@@ -40,7 +40,7 @@ flights: [[2,1,1],[2,3,1],[3,4,1]]
 <b>Explanation:</b>
 There is no direct or indirect path 
 to visit city 2 and 1 from city 3
-  </pre>
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/711152/Web/Other/blobid1_1750669108.webp" alt="" title="" width="200" height="224"/>  </pre>
 
 <b>Your Task:</b>
 

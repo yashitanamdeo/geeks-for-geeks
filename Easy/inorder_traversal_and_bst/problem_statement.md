@@ -20,7 +20,7 @@ Given an array <b>arr </b>of size <b>N, </b>determine whether this array repre
 N = 3
 arr = {2, 4, 5}
 <b>Output:</b> 1
-<b>Explaination:</b> <br>Given array is inorder traversal for the following tree:<br>    <br></pre>
+<b>Explaination:</b> <br>Given array is inorder traversal for the following tree:<br>    <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/705301/Web/Other/blobid0_1749732160.webp" alt="" title="" height="100"/><br></pre>
 
 <b>Example 2:</b>
 

@@ -57,7 +57,7 @@ In the second step, he can collect points from cells (1, 0) and (1, 2) i.e. 13 c
 In the third step, he can collect points from cells (2, 0) and (2, 2) i.e. 14 points.
 In the fourth step, he can collect points from the cell (0, 1) i.e. 6 points.
 So in each step, he can collect coins like -You can see in the below image  Knight can collect 15 coins in the 0th step only
-
+<img src="https://media.geeksforgeeks.org/img-practice/rect46213-1668840290.png" alt="" title=""/>
 </pre>
 
 <b>Your Task:</b><br>You don't need to read input or print anything. Your task is to complete the function knightInGeekland() which takes 2-d array <b>arr[][],</b> starting coordinates of knight <b>start_x, and start_y </b>as input, and return an integer value as min steps to gain max points.

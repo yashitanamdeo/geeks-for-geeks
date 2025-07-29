@@ -27,11 +27,11 @@ Your task is to complete the function <b>cloneGraph( ) </b>which takes a starti
 
 <pre><b>Input: </b>n = 4, adjList[][] = [[1, 2], [0, 2], [0, 1, 3], [2]]
 <b>Output: </b>true
-<b>Explanation: <br><br></b>As the cloned graph is identical to the original one the driver code will print true.</pre>
+<b>Explanation: <br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/893038/Web/Other/blobid0_1744464094.jpg" alt="" title="" width="211" height="190"/><br></b>As the cloned graph is identical to the original one the driver code will print true.</pre>
 
 <pre><b>Input: </b>n = 3, adjList[][] = [[1, 2], [0], [0]]
 <b>Output: </b>true
-<b>Explanation: <br><br></b>As the cloned graph is identical to the original one the driver code will print true.<br></pre>
+<b>Explanation: <br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/893038/Web/Other/blobid1_1744465861.jpg" alt="" title="" width="233" height="206"/><br></b>As the cloned graph is identical to the original one the driver code will print true.<br></pre>
 
 <b>Constraints:</b><br>1 ≤ n ≤ 10<sup>4<br></sup>0 ≤ no. of edges ≤ 10<sup>5</sup><br>0 ≤ adjList[i][j] < n
 

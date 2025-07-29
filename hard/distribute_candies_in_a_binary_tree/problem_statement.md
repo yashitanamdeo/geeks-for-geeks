@@ -18,9 +18,9 @@ The task is to determine the <b>minimum </b>number of moves required to ensure t
 
 <b>Examples:</b>
 
-<pre><b>Input</b>: root[] = [3, 0, 0]<br>        <br><b>Output: </b>2<br><b>Explanation</b>: From the root of the tree, we move one candy to its left child, and one candy to its right child. </pre>
+<pre><b>Input</b>: root[] = [3, 0, 0]<br>       <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/706446/Web/Other/blobid0_1737544183.jpg" alt="" title="" width="210" height="186"/> <br><b>Output: </b>2<br><b>Explanation</b>: From the root of the tree, we move one candy to its left child, and one candy to its right child. </pre>
 
-<pre><b>Input</b>: root[] = [0, 3, 0]<br>         <br><b>Output: </b>3<br><b>Explanation</b>: From the left child of the root, we move two candies to the root [taking two moves]. Then, we move one candy from the root of the tree to the right child.</pre>
+<pre><b>Input</b>: root[] = [0, 3, 0]<br>       <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/706446/Web/Other/blobid1_1737544324.jpg" alt="" title="" width="201" height="178"/>  <br><b>Output: </b>3<br><b>Explanation</b>: From the left child of the root, we move two candies to the root [taking two moves]. Then, we move one candy from the root of the tree to the right child.</pre>
 
 <b>Constraints:</b>
 1 <= n <= 10<sup>4<br></sup>0 <= Node->data <= n<br>The sum of all Node->data is equal to n

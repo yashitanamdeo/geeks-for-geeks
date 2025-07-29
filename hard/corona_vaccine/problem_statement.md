@@ -2,7 +2,7 @@
 
 <p align="center">
   <img alt="Difficulty" title="Difficulty" src="https://custom-icon-badges.demolab.com/badge/Difficulty: Hard-1F222E?style=for-the-badge&logoColor=white&logo=fire"/>
-  <img alt="Accuracy" title="Accuracy" src="https://custom-icon-badges.demolab.com/badge/Accuracy: 62.05%25-1F222E?style=for-the-badge&logoColor=white&logo=target"/>
+  <img alt="Accuracy" title="Accuracy" src="https://custom-icon-badges.demolab.com/badge/Accuracy: 61.92%25-1F222E?style=for-the-badge&logoColor=white&logo=target"/>
   <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 8K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   <img alt="Points" title="Points" src="https://custom-icon-badges.demolab.com/badge/Points: 8-1F222E?style=for-the-badge&logoColor=white&logo=award"/>
   <img alt="Average Time" title="Average Time" src="https://custom-icon-badges.demolab.com/badge/Average%20Time: N/A-1F222E?style=for-the-badge&logoColor=white&logo=clock"/>
@@ -21,13 +21,13 @@ Your task is to determine the minimum number of houses that must be supplied wit
 
 <b>Examples:</b>
 
-<pre><b>Input:</b> root = [1, 2, 3, N, N, N, 4, N, 5, N, 6]<br>
+<pre><b>Input:</b> root = [1, 2, 3, N, N, N, 4, N, 5, N, 6]<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/886892/Web/Other/blobid0_1739010580.png" alt="" title="" width="400" height="356"/>
 
 <b>Output: </b>2
 <b>Explanation: </b>The vaccine kits should be supplied to house numbers 1 and 5.
 </pre>
 
-<pre><b>Input: </b>root = [1, 2, 3]<br>
+<pre><b>Input: </b>root = [1, 2, 3]<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/886892/Web/Other/blobid1_1739010580.png" alt="" title="" width="337" height="308"/>
 <b>Output: </b>1
 <b>Explanation: </b>The vaccine kits should be supplied to house number 1.</pre>
 

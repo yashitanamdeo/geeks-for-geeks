@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Difficulty" title="Difficulty" src="https://custom-icon-badges.demolab.com/badge/Difficulty: Hard-1F222E?style=for-the-badge&logoColor=white&logo=fire"/>
   <img alt="Accuracy" title="Accuracy" src="https://custom-icon-badges.demolab.com/badge/Accuracy: 37.98%25-1F222E?style=for-the-badge&logoColor=white&logo=target"/>
-  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 123K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 124K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   <img alt="Points" title="Points" src="https://custom-icon-badges.demolab.com/badge/Points: 8-1F222E?style=for-the-badge&logoColor=white&logo=award"/>
   <img alt="Average Time" title="Average Time" src="https://custom-icon-badges.demolab.com/badge/Average%20Time: 60m-1F222E?style=for-the-badge&logoColor=white&logo=clock"/>
 </p>
@@ -22,12 +22,12 @@ A sudoku solution must satisfy all of the following rules:
 <b>Examples:</b>
 
 <pre><b>Input: </b>mat[][] = 
-
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/701375/Web/Other/blobid0_1738306620.png" alt="" title="" width="260" height="212"/>
 <b>Output:</b>
-<br><b>Explanation:</b> Each row, column and 3 x 3 box of the output matrix contains unique numbers.</pre>
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/701375/Web/Other/blobid0_1738306722.png" alt="" title="" width="258" height="203"/><br><b>Explanation:</b> Each row, column and 3 x 3 box of the output matrix contains unique numbers.</pre>
 
 <pre><b>Input: </b>mat[][] = 
-<br><b>Output:</b><br><br><b>Explanation:</b> Each row, column and 3 x 3 box of the output matrix contains unique numbers.</pre>
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/886267/Web/Other/blobid1_1738136756.png" alt="" title="" width="262" height="209"/><br><b>Output:</b><br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/701375/Web/Other/blobid0_1738306722.png" alt="" title="" width="258" height="203"/><br><b>Explanation:</b> Each row, column and 3 x 3 box of the output matrix contains unique numbers.</pre>
 
 <b>Constraints:</b><br>mat.size() = 9<br>mat[i].size() = 9<br>0 ≤ mat[i][j] ≤ 9<br>
 

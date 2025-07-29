@@ -23,6 +23,21 @@ class Solution:
             return -1
 
 
+class Solution2:
+    def minRepeats(self, A, B):
+        # code here 
+        dummy = A
+        for i in range(1,10**3): #acc. to constraints it cannot repeat more than 10**3 times
+            if B in dummy:
+                return i
+            dummy += A
+        return -1
+        '''
+        check if B is present in A - if it is then return the number of times
+        loop ran in order to return minimum number of repetitions of string A 
+        else if it doesn't return therefore B cannot be a substring of A in any case so return -1
+        '''
+
 #{
  # Driver Code Starts
 #Initial Template for Python 3

@@ -17,12 +17,12 @@ Geek is in a geekland which have a river and some stones in it. Initially geek c
 <pre><b>Input:</b> [2, 3, -1, 2, -2, 4, 1]
 <b>Output: </b>3
 <b>Explanation: </b>Index 3, 5 and 6 are safe only. As index 1, 4, 2 forms a cycle and from index 0 you can go to index 2 which is part of cycle.
- </pre>
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/713990/Web/Other/blobid0_1745470372.jpg" alt="" title="" width="464" height="232"/> </pre>
 
 <pre><b>Input:</b> [1, 0, -3, 0, -5, 0]
 <b>Output:</b> 2
 <b>Explanation: </b>Index 2 and 4 are safe only. As index 0, 1, 3, 5 form cycle.
-  </pre>
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/713990/Web/Other/blobid1_1745470413.jpg" alt="" title="" width="374" height="187"/>  </pre>
 
 <b>Your Task:</b><br>You don't need to read input or print anything. Your task is to complete the function badStones() which takes integer <b>n</b> and an array <b>arr </b>as input, and return an interger value as the number of good stones. Here n is the lenght of arr.
 

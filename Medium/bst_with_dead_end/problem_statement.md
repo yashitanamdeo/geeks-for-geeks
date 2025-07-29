@@ -18,10 +18,10 @@ Your task is to determine whether the BST contains a <b>dead end</b>.
 
 <b>Examples:</b>
 
-<pre><b>Input: </b>root[] = [8, 5, 9, 2, 7, N, N, 1]<br><b></b><br><b>Output: </b>true
+<pre><b>Input: </b>root[] = [8, 5, 9, 2, 7, N, N, 1]<br><b><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700425/Web/Other/blobid1_1748007119.webp" alt="" title="" width="190" height="184"/></b><br><b>Output: </b>true
 <b>Explanation: </b>Node 1 is a Dead End in the given BST.</pre>
 
-<pre><b>Input:</b> root[] = [8, 7, 10, 2, N, 9, 13]<b><br></b><br><b>Output:</b> true
+<pre><b>Input:</b> root[] = [8, 7, 10, 2, N, 9, 13]<b><br></b><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700425/Web/Other/blobid3_1748007366.webp" alt="" title="" width="184" height="138"/><br><b>Output:</b> true
 <b>Explanation: </b>Node 9 is a Dead End in the given BST.</pre>
 
 <b>Constraints:</b><br>1 ≤ number of nodes ≤ 3000<sup><br></sup>1 ≤ node->data ≤ 10<sup>5</sup><sup><br></sup>

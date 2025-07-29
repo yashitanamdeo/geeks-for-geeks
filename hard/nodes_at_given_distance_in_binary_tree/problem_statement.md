@@ -17,12 +17,12 @@ Given a binary tree, a target node in the binary tree, and an integer value k, f
 <b>Examples:</b>
 
 <pre><b>Input:</b> root = [1, 2, 3, 4, 5], target = 2, k = 2   
-
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700546/Web/Other/blobid0_1733895958.png" alt="" title="" width="317" height="283"/>
 <b>Output:</b> [3]
 <b>Explanation: </b>Nodes at a distance 2 from the given node 2 is 3.
 </pre>
 
-<pre><b>Input: </b>root = [1, 2, 3, 4, 5, 6, 7], target = 3, k = 1<br>
+<pre><b>Input: </b>root = [1, 2, 3, 4, 5, 6, 7], target = 3, k = 1<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700546/Web/Other/blobid1_1733896181.png" alt="" title="" width="324" height="289"/>
 <b>Output:</b> [1, 6, 7]<br><b>Explanation:</b> Nodes at a distance 1 from the given target node 3 are 1, 6 & 7.</pre>
 
 <b>Constraints:</b><br>1 ≤ number of nodes ≤ 10<sup>6</sup><br>1 ≤  node->data ≤ 10<sup>9</sup><br>1 ≤ target ≤ 10<sup>9</sup><br>1 ≤ k ≤ 20

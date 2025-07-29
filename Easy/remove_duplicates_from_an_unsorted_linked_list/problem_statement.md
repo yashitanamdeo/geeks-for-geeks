@@ -16,7 +16,7 @@ Given an unsorted linked list. The task is to remove duplicate elements from thi
 
 <pre><b>Input: </b>LinkedList: 5->2->2->4
 <b>Output: </b>5->2->4<b>
-Explanation: </b>Given linked list elements are 5->2->2->4, in which 2 is repeated only. So, we will delete the extra repeated elements 2 from the linked list and the resultant linked list will contain 5->2->4<br> </pre>
+Explanation: </b>Given linked list elements are 5->2->2->4, in which 2 is repeated only. So, we will delete the extra repeated elements 2 from the linked list and the resultant linked list will contain 5->2->4<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700125/Web/Other/blobid0_1723638502.png" alt="" title="" width="310" height="124"/> </pre>
 
 <pre><b>Input: </b>LinkedList: 2->2->2->2->2
 <b>Output: </b>2<b>

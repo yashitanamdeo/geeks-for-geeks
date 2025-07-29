@@ -16,11 +16,11 @@ Given a matrix <b>mat[][]</b>. Find the size of the largest sub-matrix whose <b>
 
 <pre><b>Input: </b>mat[][] = [[9, 7, 16, 5], [1, -6, -7, 3], [1, 8, 7, 9], [7, -2, 0, 10]] <b>
 Output: </b>6<b>
-Explanation: <br></b></pre>
+Explanation: <br></b><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/710026/Web/Other/blobid0_1736762643.png" alt="" title="" width="488" height="432"/></pre>
 
 <pre><b>Input: </b>mat[][] =  [[1, 2, 3], [-3, -2, -1], [1, 7, 5]]
 <b>Output:</b>  6
-<b>Explanation:<br></b></pre>
+<b>Explanation:<br></b><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/710026/Web/Other/blobid1_1736762643.png" alt="" title="" width="478" height="426"/></pre>
 
 <pre><b>Input:</b> mat[][] = [[1, -1], [-1, 1]]
 <b>Output:</b> 4<br><b>Explanation:</b> The largest sub-matrix with sum 0 is [[1, -1], [-1, 1]].</pre>

@@ -10,51 +10,46 @@
 
 ## Problem Statement
 
-Given a square matrix<b> </b>of size<b> N*N</b>, print the <b>sum of upper and lower triangular elements</b>. Upper Triangle consists of elements on the diagonal and above it. The lower triangle consists of elements on the diagonal and below it. <br><br><b>Example 1:</b>
+Given a square matrix<b> </b>of size<b> n*n</b>, print the <b>sum of upper and lower triangular elements</b>. Upper Triangle consists of elements on the diagonal and above it. The lower triangle consists of elements on the diagonal and below it. <br><br><b>Examples:</b>
 
-<pre><b>Input</b>:
-N = 3 
-mat[][] = {{6, 5, 4},
-           {1, 2, 5}
-           {7, 9, 7}}
-<b>Output</b>: <br>29 32
-<b>Explanation</b>:
-The given matrix is
+<pre><b>Input</b>:n = 3,mat[][] = [[6, 5, 4],
+                    [1, 2, 5],
+                    [7, 9, 7]]
+<b>Output</b>: [29, 32]
+<b>Explanation</b>:The given matrix is
 6 5 4
 1 2 5
-7 9 7
-The elements of upper triangle are
+7 9 7</pre>
+
+<pre>Upper triangular matrix:
 6 5 4
   2 5
     7
-Sum of these elements is 6+5+4+2+5+7=29.
-The elements of lower triangle are
+Sum of these elements is 6 + 5 + 4 + 2 + 5 + 7=29.</pre>
+
+<pre>Lower triangular matrix:
 6
 1 2
 7 9 7
-Sum of these elements is 6+1+2+7+9+7= 32.</pre>
+Sum of these elements is 6 + 1 + 2 + 7 + 9 + 7= 32.</pre>
 
-<b>Example 2:</b>
-
-<pre><b>Input</b>:
-N = 2
-mat[][] = {{1, 2},
-           {3, 4}}
-<b>Output</b>: <br>7 8
-<b>Explanation:</b>
-Upper triangular matrix:
+<pre><b>Input</b>:n = 2, mat[][] = [[1, 2],
+                     [3, 4]]
+<b>Output</b>: [7, 8]
+<b>Explanation:</b>Upper triangular matrix:
 1 2
   4
 Sum of these elements are 7.
 Lower triangular matrix:
 1
 3 4
-Sum of these elements are 8.
+Sum of these elements are 8.</pre>
 
-</pre>
+<br><b>Constraints:</b> <br>1 <= n <= 10<sup>3</sup><br>1 <= mat[i][j] <= 10<sup>6</sup>
 
-<b>Your Task:</b><br>You don't need to read input or print anything. Complete the function <b>sumTriangles() </b>that takes matrix and its size N as input parameters and returns the list of integers containing the sum of upper and lower triangle. <br><br><b>Expected Time Complexity:</b> O(N * N)<br><b>Expected Auxiliary Space:</b> O(1)<br><br><b>Constraints:</b> <br>1 <= N <= 10<sup>3</sup><br>1 <= matrix[i][j] <= 10<sup>6</sup>
-
+## Expected Complexities
+- Time Complexity: O(n^2)
+- Auxiliary Space: O(1)
 
 <hr>
 

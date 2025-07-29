@@ -15,10 +15,10 @@ You are given the head of a linked list. You have to replace all the values of t
 <b>Examples :</b>
 
 <pre><b>Input: </b>head =<b> </b>2 → 6 → 10
-<b>Output: </b>2 → 5 → 11<br><br><b>Explanation: </b>The nearest prime of 2 is 2 itself. The nearest primes of 6 are 5 and 7, since 5 is smaller so, 5 will be chosen. The nearest prime of 10 is 11.</pre>
+<b>Output: </b>2 → 5 → 11<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/713591/Web/Other/blobid0_1723009310.png" alt="" title="" width="267" height="167"/><br><b>Explanation: </b>The nearest prime of 2 is 2 itself. The nearest primes of 6 are 5 and 7, since 5 is smaller so, 5 will be chosen. The nearest prime of 10 is 11.</pre>
 
 <pre><b>Input: </b>head =<b> </b>1 → 15 → 20
-<b>Output: </b>2 → 13 → 19<br><br><b>Explanation: </b>The nearest prime of 1 is 2. The nearest primes of 15 are 13 and 17, since 13 is smaller so, 13 will be chosen. The nearest prime of 20 is 19.</pre>
+<b>Output: </b>2 → 13 → 19<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/713591/Web/Other/blobid1_1723009344.png" alt="" title="" width="266" height="166"/><br><b>Explanation: </b>The nearest prime of 1 is 2. The nearest primes of 15 are 13 and 17, since 13 is smaller so, 13 will be chosen. The nearest prime of 20 is 19.</pre>
 
 <b>Constraints:</b><br>1 <= no. of Nodes <= 10<sup>4</sup><br>1 <= node.val <= 10<sup>4</sup>
 

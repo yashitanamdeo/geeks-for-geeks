@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Difficulty" title="Difficulty" src="https://custom-icon-badges.demolab.com/badge/Difficulty: Easy-1F222E?style=for-the-badge&logoColor=white&logo=fire"/>
   <img alt="Accuracy" title="Accuracy" src="https://custom-icon-badges.demolab.com/badge/Accuracy: 18.95%25-1F222E?style=for-the-badge&logoColor=white&logo=target"/>
-  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 840K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 843K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   <img alt="Points" title="Points" src="https://custom-icon-badges.demolab.com/badge/Points: 2-1F222E?style=for-the-badge&logoColor=white&logo=award"/>
   <img alt="Average Time" title="Average Time" src="https://custom-icon-badges.demolab.com/badge/Average%20Time: 20m-1F222E?style=for-the-badge&logoColor=white&logo=clock"/>
 </p>
@@ -33,6 +33,9 @@ Explanation: </b>2 and 3 occur more than once in the given array.</pre>
 ### Tags
 - **Topic Tags:** `Arrays` `Data Structures`
 - **Company Tags:** `Paytm` `Zoho` `Flipkart` `Amazon` `D-E-Shaw` `Qualcomm`
+
+### Related Articles
+- [Duplicates Elements In An Array](https://www.geeksforgeeks.org/duplicates-elements-in-an-array/)
 
 ### Related Interview Experiences
 - [One97 Interview Experience Set 3 Backendnode Js Developer](https://www.geeksforgeeks.org/one97-interview-experience-set-3-backendnode-js-developer/)

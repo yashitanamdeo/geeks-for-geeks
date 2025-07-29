@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Difficulty" title="Difficulty" src="https://custom-icon-badges.demolab.com/badge/Difficulty: Easy-1F222E?style=for-the-badge&logoColor=white&logo=fire"/>
   <img alt="Accuracy" title="Accuracy" src="https://custom-icon-badges.demolab.com/badge/Accuracy: 44.93%25-1F222E?style=for-the-badge&logoColor=white&logo=target"/>
-  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 418K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 421K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   <img alt="Points" title="Points" src="https://custom-icon-badges.demolab.com/badge/Points: 2-1F222E?style=for-the-badge&logoColor=white&logo=award"/>
   <img alt="Average Time" title="Average Time" src="https://custom-icon-badges.demolab.com/badge/Average%20Time: 20m-1F222E?style=for-the-badge&logoColor=white&logo=clock"/>
 </p>
@@ -14,7 +14,7 @@ Given two non-empty strings <b>s1 </b>and <b>s2</b>, consisting only of lowercas
 
 <b>Examples:</b>
 
-<pre><b>Input:</b> s1 = "geeks" s2 = "kseeg"<br><b>Output:</b> true <br><b>Explanation:</b> Both the string have same characters with same frequency. So, they are anagrams. </pre>
+<pre><b>Input:</b> s1 = "geeks" s2 = "kseeg"<br><b>Output:</b> true <br><b>Explanation:</b> Both the string have same characters with same frequency. So, they are anagrams.</pre>
 
 <pre><b>Input:</b> s1 = "allergy", s2 = "allergyy" <br><b>Output</b>: false <br><b>Explanation:</b> Although the characters are mostly the same, s2 contains an extra 'y' character. Since the frequency of characters differs, the strings are not anagrams. </pre>
 

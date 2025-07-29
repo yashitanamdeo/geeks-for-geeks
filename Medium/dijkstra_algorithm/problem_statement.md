@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Difficulty" title="Difficulty" src="https://custom-icon-badges.demolab.com/badge/Difficulty: Medium-1F222E?style=for-the-badge&logoColor=white&logo=fire"/>
   <img alt="Accuracy" title="Accuracy" src="https://custom-icon-badges.demolab.com/badge/Accuracy: 50.83%25-1F222E?style=for-the-badge&logoColor=white&logo=target"/>
-  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 239K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  <img alt="Submissions" title="Submissions" src="https://custom-icon-badges.demolab.com/badge/Submissions: 241K+-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   <img alt="Points" title="Points" src="https://custom-icon-badges.demolab.com/badge/Points: 4-1F222E?style=for-the-badge&logoColor=white&logo=award"/>
   <img alt="Average Time" title="Average Time" src="https://custom-icon-badges.demolab.com/badge/Average%20Time: 25m-1F222E?style=for-the-badge&logoColor=white&logo=clock"/>
 </p>
@@ -19,14 +19,14 @@ Given an undirected, weighted graph with <b>V </b>vertices numbered from 0 to V
 <pre><b>Input: </b>V = 3, edges[][] = [[0, 1, 1], [1, 2, 3], [0, 2, 6]], src = 2
 <b>Output: </b>[4, 3, 0]
 <b>Explanation</b>:
-<br>Shortest Paths:
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/892538/Web/Other/blobid0_1744201836.jpg" alt="" title="" width="317" height="236"/><br>Shortest Paths:
 For 2 to 0 minimum distance will be 4. By following path 2 -> 1 -> 0
 For 2 to 1 minimum distance will be 3. By following path 2 -> 1
 For 2 to 2 minimum distance will be 0. By following path 2 -> 2<br></pre>
 
 <pre><b>Input: </b>V = 5, edges[][] = [[0, 1, 4], [0, 2, 8], [1, 4, 6], [2, 3, 2], [3, 4, 10]], src = 0
 <b>Output: </b>[0, 4, 8, 10, 10]
-<b>Explanation</b>: <br><br>Shortest Paths: <br>For 0 to 1 minimum distance will be 4. By following path 0 -> 1
+<b>Explanation</b>: <br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/892538/Web/Other/blobid1_1744202046.jpg" alt="" title="" width="336" height="273"/><br>Shortest Paths: <br>For 0 to 1 minimum distance will be 4. By following path 0 -> 1
 For 0 to 2 minimum distance will be 8. By following path 0 -> 2
 For 0 to 3 minimum distance will be 10. By following path 0 -> 2 -> 3 
 For 0 to 4 minimum distance will be 10. By following path 0 -> 1 -> 4</pre>

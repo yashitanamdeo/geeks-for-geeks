@@ -19,13 +19,13 @@ If there doesn't exists such a node that is labeled as <b>x</b>, <b>return -1</b
 <b>Examples :</b>
 
 <pre><b>Input: </b><b>x</b> = 4
-<br><b>Output: </b>2
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/701248/Web/Other/blobid0_1745299763.jpg" alt="" title="" width="414" height="366"/><br><b>Output: </b>2
 <b>Explanation</b>:
-<br>We can clearly see that Node 4 lies at Level 2.
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/701248/Web/Other/blobid1_1745299817.jpg" alt="" title="" width="461" height="307"/><br>We can clearly see that Node 4 lies at Level 2.
 </pre>
 
 <pre><b>Input: </b><b>x</b> = 1
- <br><b>Output: </b>1
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/701248/Web/Other/blobid2_1745299852.jpg" alt="" title="" width="314" height="209"/> <br><b>Output: </b>1
 <b>Explanation</b>: Node 1 lies at level 1, immediate after Node 0.</pre>
 
 <b>Expected Time Complexity: </b>O(v)<br><b>Expected Auxiliary Space: </b>O(v)

@@ -10,7 +10,7 @@
 
 ## Problem Statement
 
-Juggler Sequence is a series of integers in which the first term starts with a positive integer number <i>a</i> and the remaining terms are generated from the immediate previous term using the below recurrence relation:<br><br><br><br>Given a number n, find the Juggler Sequence for this number as the first term of the sequence until it becomes 1.
+Juggler Sequence is a series of integers in which the first term starts with a positive integer number <i>a</i> and the remaining terms are generated from the immediate previous term using the below recurrence relation:<br><br><img src="https://media.geeksforgeeks.org/img-practice/PROD/addEditProblem/705067/Web/Other/2220ffd2-353d-4b30-b2aa-68fe4047f959_1685087657.png" alt="Juggler Formula" title=""/><br><br>Given a number n, find the Juggler Sequence for this number as the first term of the sequence until it becomes 1.
 
 <b>Examples:</b>
 

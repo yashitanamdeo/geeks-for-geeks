@@ -18,13 +18,13 @@ You are given two vertices <b>a</b> and <b>b</b> and you have to go from <b>a</b
 
 <pre><b>Input: </b>n = 4, m = 4, a = 2, b = 4, edges[][] = [[1, 2, 1, 4], [1, 3, 2, 4],[1, 4, 3, 1], [2, 4, 6, 5]]
 <b>Output: </b>2
-<br><b>Explanation:</b>
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/713968/Web/Other/blobid0_1745470590.jpg" alt="" title="" width="292" height="258"/><br><b>Explanation:</b>
 We can follow the path 2 -> 1 -> 4. This gives a distance of 1+3 = 4 if we follow all straight paths. But we can take the curved path  from 1 -> 4, which costs 1. This will result in a cost of 1 + 1 = 2
 </pre>
 
 <pre><b>Input: </b>n = 2, m = 1, a = 1, b = 2, edges = [[1, 2, 4, 1]]
 <b>Output : </b>1
-
+<img src="https://media.geeksforgeeks.org/img-practice/PROD/addEditProblem/713968/Web/Other/fcf19135-c88b-48ac-8fc4-bc46efc7ca3f_1685087926.png" alt="" title=""/>
 <b>Explanation:</b>
 Take the curved path from 1 to 2 which costs 1. 
 </pre>

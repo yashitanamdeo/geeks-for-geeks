@@ -12,15 +12,15 @@
 
 Given a binary tree and the task is to find the spiral order traversal of the tree and return the list containing the elements.<br><b>Spiral order Traversal mean:</b> Starting from level 0 for root node, for all the even levels we print the node's value from right to left and for all the odd levels we print the node's value from left to right. <br>For below tree, function should return [1, 2, 3, 4, 5, 6, 7]
 
-<b> </b>
+<b> <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700201/Web/Other/blobid0_1746530348.webp" alt="" title="" width="244" height="218"/></b>
 
 <b>Examples:</b>
 
-<pre><b>Input: </b>root = [1, 3, 2]<br> <br><b>Output: </b>[1, 3, 2]<br><b>Explanation</b>: Start with root (1), print level 0 (right to left), then level 1 (left to right).</pre>
+<pre><b>Input: </b>root = [1, 3, 2]<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700201/Web/Other/blobid2_1746530526.webp" alt="" title="" width="167" height="135"/> <br><b>Output: </b>[1, 3, 2]<br><b>Explanation</b>: Start with root (1), print level 0 (right to left), then level 1 (left to right).</pre>
 
-<pre><b>Input: </b>root = [10, 20, 30, 40, 60]<br><br><b>Output: </b>[10, 20, 30, 60, 40]<br><b>Explanation</b>: Start with root (10), print level 0 (right to left), level 1 (left to right), and continue alternating.</pre>
+<pre><b>Input: </b>root = [10, 20, 30, 40, 60]<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700201/Web/Other/blobid3_1746530612.webp" alt="" title="" width="197" height="210"/><br><b>Output: </b>[10, 20, 30, 60, 40]<br><b>Explanation</b>: Start with root (10), print level 0 (right to left), level 1 (left to right), and continue alternating.</pre>
 
-<pre><b>Input: </b>root = [1, 2, N, 4]<br>  <br><b>Output: </b>[1, 2, 4]<br><b>Explanation</b>: Start with root (1), then level 1 (left to right), then level 2 (right to left).</pre>
+<pre><b>Input: </b>root = [1, 2, N, 4]<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700201/Web/Other/blobid0_1746530910.webp" alt="" title="" width="174" height="185"/>  <br><b>Output: </b>[1, 2, 4]<br><b>Explanation</b>: Start with root (1), then level 1 (left to right), then level 2 (right to left).</pre>
 
 <b>Constraints:</b><br>1 <= number of nodes <= 10<sup>5</sup><br>0 <= node->data <= 10<sup>5</sup>
 
