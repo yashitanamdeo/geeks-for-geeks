@@ -21,12 +21,12 @@ Find the <b>minimum total cost</b> required to cut the board into squares optima
 <pre><b>Input:</b> n = 4, m = 6, x[] = [2, 1, 3, 1, 4], y[] = [4, 1, 2]
 <b>Output: </b>42
 <b>Explanation:</b>
-<img src="https://media.geeksforgeeks.org/img-practice/board-1646284249.png" alt="" title=""/>
+<img style="height: 218px; width: 327px;" src="https://media.geeksforgeeks.org/img-practice/board-1646284249.png" alt="" title=""/>
 Initially no. of horizontal segments = 1 & no. of vertical segments = 1.<br>Optimal way to cut into square is:<br>• Pick 4 (from x) -> vertical cut, Cost = 4 × horizontal segments = 4,<br>  Now, horizontal segments = 1, vertical segments = 2.<br>• Pick 4 (from y) -> horizontal cut, Cost = 4 × vertical segments = 8,<br>  Now, horizontal segments = 2, vertical segments = 2.<br>• Pick 3 (from x) -> vertical cut, Cost = 3 × horizontal segments = 6,<br>  Now, horizontal segments = 2, vertical segments = 3.<br>• Pick 2 (from x) -> vertical cut, Cost = 2 × horizontal segments = 4,<br>  Now, horizontal segments = 2, vertical segments = 4.<br>• Pick 2 (from y) -> horizontal cut, Cost = 2 × vertical segments = 8,<br>  Now, horizontal segments = 3, vertical segments = 4.<br>• Pick 1 (from x) -> vertical cut, Cost = 1 × horizontal segments = 3,<br>  Now, horizontal segments = 3, vertical segments = 5.<br>• Pick 1 (from x) -> vertical cut, Cost = 1 × horizontal segments = 3,<br>  Now, horizontal segments = 3, vertical segments = 6.<br>• Pick 1 (from y) -> horizontal cut, Cost = 1 × vertical segments = 6,<br>  Now, horizontal segments = 4, vertical segments = 6.<br>So, the total cost = 4 + 8 + 6 + 4 + 8 + 3 + 3 + 6 = 42.</pre>
 
 <pre><b>Input:</b> n = 4, m = 4, x[] = [1, 1, 1], y[] = [1, 1, 1]<br><b>Output: </b>15<b>
 Explanation:</b> 
-<img src="https://media.geeksforgeeks.org/img-practice/board-1646284249-1661926688.png" alt="" title=""/>
+<img style="height: 225px; width: 323px;" src="https://media.geeksforgeeks.org/img-practice/board-1646284249-1661926688.png" alt="" title=""/>
 Initially no. of horizontal segments = 1 & no. of vertical segments = 1.
 Optimal way to cut into square is: <br>• Pick 1 (from y) -> horizontal cut, Cost = 1 × vertical segments = 1,
   Now, horizontal segments = 2, vertical segments = 1.
