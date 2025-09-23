@@ -14,6 +14,10 @@ class Solution:
         return q
 
 
+class Solution2:
+    def reverseQueue(self, q):
+        return q.reverse()
+    
 #{ 
  # Driver Code Starts
 
